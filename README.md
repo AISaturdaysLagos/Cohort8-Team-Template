@@ -27,8 +27,8 @@ Step-by-step instructions on how to install and set up the project
 
 ## Contact
 - Daniel Otulagun
-- Sarah Akinkunmi
-- Olatunde Ogunboyejo @josiaholatunde
+- <a href="https://github.com/ssarrayya"> @Sarah Akinkunmi </a>
+- <a href="https://github.com/josiaholatunde"> @Olatunde Ogunboyejo </a>
 
 ## Requirements:
 Your project should involve the following components:
