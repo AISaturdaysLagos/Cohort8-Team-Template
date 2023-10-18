@@ -1,5 +1,6 @@
 ## Project Outline:
 - **Introduction**: A brief background on the impact of the problem you're working on. Why is this project important?
+
 - **Problem Description**: In-depth discussion of the Problem to be solved. What is this project about?
 - **Existing Solution**: Has this problem been solved? What did they do?
 - **Proposed Method**: Proposed approach to solving the problem. What do you plan to do differently? Make sure that your solution adheres to the DS/ML pipeline that we have introduced you to in this cohort i.e it includes Data Sourcing, Data Cleaning and prep, ML Model and Model Deployment (where possible).
