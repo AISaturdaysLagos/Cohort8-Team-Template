@@ -26,7 +26,7 @@ Step-by-step instructions on how to install and set up the project
 
 
 ## Contact
-- Daniel Otulagun
+- <a href="https://github.com/danotsonof">Daniel Otulagun </a>
 - <a href="https://github.com/ssarrayya"> @Sarah Akinkunmi </a>
 - <a href="https://github.com/josiaholatunde"> @Olatunde Ogunboyejo </a>
 
