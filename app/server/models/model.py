@@ -2,7 +2,7 @@ import pickle
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.preprocessing import StandardScaler, OneHotEncoder, LabelEncoder
 
 def load_data(dir):
     df = pd.read_csv(dir)
@@ -72,6 +72,7 @@ def data_split(df):
     return X_train, X_dev, X_test, y_train, y_dev, y_test
 
 def standardize(data):
+    """Function to normalize weight of dataset"""
     scaler = StandardScaler().fit(data)
     data_scaled = scaler.transform(data)
     return data_scaled, scaler
