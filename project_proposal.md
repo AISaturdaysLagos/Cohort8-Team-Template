@@ -7,7 +7,7 @@
 - **Proposed Split**: Who will be doing what? Make sure to list each member of your team, and clearly state what they will be doing to ensure the project's success. Every member of the team must have a defined role. For example, you can have Data Sourcing sub team, Data Cleaning and Prep sub team, Model sub team and Model Deployment sub team (Front End and Backend skills required). Even though the work is splitted amongst team members, all team members should be knowledgeable about the proposed solution and should be able to present this solution if needed.
 - **Proposed Timeline**: Give a rough estimate of how long you want to spend on each component of your proposed method. For example, 1-3 days for data scraping, 3-5 days for data cleaning/validation, etc.
 - **Conclusion**: A discussion of the usefulness of your application. Possible extensions of your project.
-- **References:** We are assuming you referenced some article. You can keep all the references here.
+- **References:** We are assuming you referenced some article. You can keep all the references here. Very important
 
 ## Requirements:
 Your project should involve the following components:
