@@ -74,9 +74,9 @@
       <transition name="fade">
         <div
           v-if="currentStep === 2"
-          class="w-[30%] h-[70%] flex flex-col justify-center items-center"
+          class="w-[50%] h-[70%] flex flex-col justify-center items-center"
         >
-          <div class="mb-8 w-full">
+          <div class="w-full mb-8">
             <BaseRadioGroup
               :modelValue="hypertension"
               label="Have you ever been
@@ -85,7 +85,8 @@
               :error="errors.hypertension"
               :required="true"
               @change="handleChange"
-              :vertical="false"
+              :vertical="true"
+              :in-vertical="false"
               :options="[
                 { label: 'Yes', value: 1 },
                 { label: 'No', value: 0 },
@@ -101,7 +102,8 @@
               :error="errors.heartDisease"
               :required="true"
               @change="handleChange"
-              :vertical="false"
+              :vertical="true"
+              :in-vertical="false"
               :options="[
                 { label: 'Yes', value: 1 },
                 { label: 'No', value: 0 },
@@ -116,8 +118,9 @@
               name="diabetes"
               :error="errors.diabetes"
               :required="true"
+              :in-vertical="false"
               @change="handleChange"
-              :vertical="false"
+              :vertical="true"
               :options="[
                 { label: 'Yes', value: 1 },
                 { label: 'No', value: 0 },

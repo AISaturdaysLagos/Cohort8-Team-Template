@@ -2,7 +2,7 @@
   <div>
     <label
       v-if="label"
-      class="block text-sm font-medium text-[#d9dce0] mb-1 capitalize"
+      class="block text-base font-medium text-[#d9dce0] mb-4 capitalize"
       >{{ label }}</label
     >
     <div
@@ -20,7 +20,7 @@
         type="radio"
         @update:modelValue="$emit('update.modelValue', $event)"
         :name="name"
-        :vertical="vertical"
+        :vertical="inVertical"
       />
     </div>
   </div>
@@ -46,6 +46,10 @@ export default {
       required: true,
     },
     vertical: {
+      type: Boolean,
+      default: false,
+    },
+    inVertical: {
       type: Boolean,
       default: false,
     },
