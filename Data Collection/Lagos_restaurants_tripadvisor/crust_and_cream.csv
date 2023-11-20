@@ -1,23 +1,23 @@
-author_name,review_title,review_text,author_rating,visit_date,overall_rating
+author_name,review_title,review_text,author_rating,visit_date,overall_rating,restaurant_name
 Y6571FYandyc,"Fish yes, chips yes. Fish and chips never!!","Coming from the land of fish and chips and wanting a taste of home I visited Crust and Cream specifically for a 'fish and chip' supper. What was presented to me was what appeared to be a pile of goujons with chips. The 'fish' was...chewy and flavourless, cooked in breadcrumbs rather than batter which added to the chewiness a long way distant from the crispness of authentic fish and chips. I had to request salt and vinegar which took an age to arrive and when it did was white vinegar not malt vinegar The price of this culinary disaster was over N8,000.
-The following night I went and enjoyed 'proper' fish and chips with peas fir N4,000 at Churchills bar in Lekki. Crust and Creme should change the menu description to Fish Goujons to avoid misleading other diners into a miserable  eating experience and costly mistake. They may want to Google fish and chips - they will not find what they served there and will give them an insight into customer expectations.More",40,August 2022,4.0
-capetownluver,"Good food, bad service","The food tasted really nice. I ordered pasta carbonara and it was of a reasonable portion and price. However, the service is terrible. It took them forever to attend to us and to have us seated, despite the place not being that busy. They also...took so long to get the food out. Overall, I would recommend if you’re willing to wait but the food is nothing spectacular and personally, not worth the wait.More",45,December 2019,4.0
+The following night I went and enjoyed 'proper' fish and chips with peas fir N4,000 at Churchills bar in Lekki. Crust and Creme should change the menu description to Fish Goujons to avoid misleading other diners into a miserable  eating experience and costly mistake. They may want to Google fish and chips - they will not find what they served there and will give them an insight into customer expectations.More",40,Aug-22,4,Crust and Cream
+capetownluver,"Good food, bad service","The food tasted really nice. I ordered pasta carbonara and it was of a reasonable portion and price. However, the service is terrible. It took them forever to attend to us and to have us seated, despite the place not being that busy. They also...took so long to get the food out. Overall, I would recommend if you’re willing to wait but the food is nothing spectacular and personally, not worth the wait.More",45,Dec-19,4,Crust and Cream
 DoubleTCatering,Great Quiet Place For A Night Treat,"I love where I can have a good dessert late with good company. That seems easy. However, most places either fail with the quality of the product, the service, the ambiance, or the ease of access. C & C hit all the right notes. I...was able to walk in late, with my people, in a comfortable and well laid-out setting. I like that it's quiet as well. The layout helps make that happen.
 
 The menu is pretty good, and with variety. Plus, you can get specialty cakes and ice cream from the counter up front.
 
-Yes, it's on the high end, relatively speaking, so not somewhere I'd go day in day out. However, it's a good once in a fortnight (or date night) option.More",40,September 2019,4.0
-thedrewfiles,Terrible Customer Service,"I have been to this location thrice on different ocassions. The first time was intentional for celebration purposes, while the second and third time, i had little or no choice because i was slightly stranded. However in all of my visits, despite the nice interior...and other effects, their food was way below average and the customer service personnels were either not enough or were too reluctant to serve. I will not recommend this location to anyone who is impatient or has high taste for customer service.More",40,April 2019,4.0
-RanjitWarrier,Excellent lounge restaurant in VI,"The food here is awesome, portions they serve will fill even a real hungry man. Their pastries and cakes are the best you can get in Lagos",20,July 2019,4.0
-KaiUWulff,Great coffee and cakes,"If you are looking for bakery items with real cream a great coffee and a nice service this is a good place to frequent. Quiet, relaxed and to the point",30,April 2019,4.0
+Yes, it's on the high end, relatively speaking, so not somewhere I'd go day in day out. However, it's a good once in a fortnight (or date night) option.More",40,Sep-19,4,Crust and Cream
+thedrewfiles,Terrible Customer Service,"I have been to this location thrice on different ocassions. The first time was intentional for celebration purposes, while the second and third time, i had little or no choice because i was slightly stranded. However in all of my visits, despite the nice interior...and other effects, their food was way below average and the customer service personnels were either not enough or were too reluctant to serve. I will not recommend this location to anyone who is impatient or has high taste for customer service.More",40,Apr-19,4,Crust and Cream
+RanjitWarrier,Excellent lounge restaurant in VI,"The food here is awesome, portions they serve will fill even a real hungry man. Their pastries and cakes are the best you can get in Lagos",20,Jul-19,4,Crust and Cream
+KaiUWulff,Great coffee and cakes,"If you are looking for bakery items with real cream a great coffee and a nice service this is a good place to frequent. Quiet, relaxed and to the point",30,Apr-19,4,Crust and Cream
 yassarh2016,Tastyyyy,"Their food and sweets are a second for none in Lagos.
 A must try place not just for dinning in but even for delivery.
-you will get your food in good conditions and warm enough.",50,February 2019,4.0
+you will get your food in good conditions and warm enough.",50,Feb-19,4,Crust and Cream
 mamah2109,Yummilicious everyday treats!,"Have tried nearly everything on their menu from the breakfast to the pizzas and the salads. Great big servings of everything. The wait staff is friendly and polite but that could be because we are regulars! My daughter never leaves without a smiley-faced vanilla ice...cream with a generous coating of white and milk chocolate.
 
-Great place for a Sunday family lunch or a mid week coffee with girl friends just before the school run.More",20,February 2019,4.0
+Great place for a Sunday family lunch or a mid week coffee with girl friends just before the school run.More",20,Feb-19,4,Crust and Cream
 G5961YWdavida,Very Nice Lunch,"Was starving and took a dash to Crust & Cream not really knowing what to expect. Had a wonderful meal in a nice and calm ambience. 
-I’ll recommend this place for lunch in Lagos. Try out the Chicken Scallope with Chinese Rice side dish.",50,January 2019,4.0
+I’ll recommend this place for lunch in Lagos. Try out the Chicken Scallope with Chinese Rice side dish.",50,Jan-19,4,Crust and Cream
 ahmedaglan84,Delicious food with lot of varities,"Crust & Cream provides wide range of varieties including meat, chicken and seafood plats in addition to great dessert menu along with appetizers. I and my colleague tried only seafood plats and they are great, that include shrimps, salamon steak plats as well as seafood...pasta plats and shrimps Cesar salad.
 
 I have three concerns about the restaurant
@@ -26,28 +26,28 @@ I have three concerns about the restaurant
 
 - Spices provided in Seafood soap is terrible, change the taste and make it very bad.
 
-- Toilets need to be improvedMore",40,December 2018,4.0
-Duke M,Dinner,It was home away from home i must say the environmen how the staffs attended to us was awesome will recommend them any day any time they should keep up the good work,50,December 2018,4.0
-kunlea2013,Brilliant Place,The food is just simply lovely. I can visit everyday and have different things on the menu and still would be brilliant. A must go. Good variety and tasty food.,50,December 2018,4.0
-619hakanu,Good food,"It has good choices of pizza, pasta and meats. Soup of the day was good. Also good sweets and cakes. Reasonable price.",50,December 2018,4.0
-OAF68,Lunch,"I didn't enjoy my visit here, the Chapman was a pure glass of sugar, dodo drenched in oil, couldn't eat it, Jumbo prawn was almost bearable.  There were flies everywhere and food was overpriced for what it was, won't be going back",40,November 2018,4.0
-irishboy4,Breakfast,"Very good service but very limited breakfast menu. I’m vegetarian so did not want bacon, sausages or any other dead flesh. but got charged full price. So this made for a very high price of $14.60 for beans, 2eggs, 1 mushroom and half a small...tomato. I should have been able to order specific items. The eggs were very tasty btw. A pity about the pricing structure because I live nearby and was looking for a regular place to eat breakfast. I had walked there after sitting in Basilico which was empty of staff but open.More",50,October 2018,4.0
-Dammieabiola,Good price point,"The food was alright , I had a full English breakfast but asked for a Spanish omelette , I didn’t taste any salt in it.my partner had a philly cheese steak sandwich and the bread was way too soft but the meals were very filling...More",40,October 2018,4.0
-mandyfyfe,"Food is good, outside space is nice","I like the food here, its simple and cooked to order so you might have to wait a short while.  Outside space is great but the water feature is a bit noisy to say the least!",45,September 2018,4.0
-iyoboi,"Good food, large portions",Great family restaurant. Loved the suya calamari and the beef quesadillas. Overall good quality food and sizeable portions.,40,October 2018,4.0
+- Toilets need to be improvedMore",40,Dec-18,4,Crust and Cream
+Duke M,Dinner,It was home away from home i must say the environmen how the staffs attended to us was awesome will recommend them any day any time they should keep up the good work,50,Dec-18,4,Crust and Cream
+kunlea2013,Brilliant Place,The food is just simply lovely. I can visit everyday and have different things on the menu and still would be brilliant. A must go. Good variety and tasty food.,50,Dec-18,4,Crust and Cream
+619hakanu,Good food,"It has good choices of pizza, pasta and meats. Soup of the day was good. Also good sweets and cakes. Reasonable price.",50,Dec-18,4,Crust and Cream
+OAF68,Lunch,"I didn't enjoy my visit here, the Chapman was a pure glass of sugar, dodo drenched in oil, couldn't eat it, Jumbo prawn was almost bearable.  There were flies everywhere and food was overpriced for what it was, won't be going back",40,Nov-18,4,Crust and Cream
+irishboy4,Breakfast,"Very good service but very limited breakfast menu. I’m vegetarian so did not want bacon, sausages or any other dead flesh. but got charged full price. So this made for a very high price of $14.60 for beans, 2eggs, 1 mushroom and half a small...tomato. I should have been able to order specific items. The eggs were very tasty btw. A pity about the pricing structure because I live nearby and was looking for a regular place to eat breakfast. I had walked there after sitting in Basilico which was empty of staff but open.More",50,Oct-18,4,Crust and Cream
+Dammieabiola,Good price point,"The food was alright , I had a full English breakfast but asked for a Spanish omelette , I didn’t taste any salt in it.my partner had a philly cheese steak sandwich and the bread was way too soft but the meals were very filling...More",40,Oct-18,4,Crust and Cream
+mandyfyfe,"Food is good, outside space is nice","I like the food here, its simple and cooked to order so you might have to wait a short while.  Outside space is great but the water feature is a bit noisy to say the least!",45,Sep-18,4,Crust and Cream
+iyoboi,"Good food, large portions",Great family restaurant. Loved the suya calamari and the beef quesadillas. Overall good quality food and sizeable portions.,40,Oct-18,4,Crust and Cream
 yassarh2016,Tasty food,"Went there with friends during July.
 They have outdoor and indoor seating where the ambiance of both is really nice.
 Their food is really tasty, but the service was a bit slow.
-I liked the fillet-steak sandwich the most.",40,July 2018,4.0
+I liked the fillet-steak sandwich the most.",40,Jul-18,4,Crust and Cream
 Iota-E-S,Great food and lively interior,"Crust and Cream is a hidden Gem. It requires a bit of effort to visit
 it is situated in a relatively 'quiet' street close to a cathedral.
 Cards accepted, and wait –time is circa 30 Minutes
-It has ample green outdoor areas  and a regular...More",40,August 2017,4.0
-CSRam,Lunch break,"First visit, noticed three type of seating they had, one was in the ion but with a shelter, the second was cafe type and third sort of fine dining type.chose to sit at fine dining area. The stewards looked and behaved very professional and they...More",40,July 2018,4.0
+It has ample green outdoor areas  and a regular...More",40,Aug-17,4,Crust and Cream
+CSRam,Lunch break,"First visit, noticed three type of seating they had, one was in the ion but with a shelter, the second was cafe type and third sort of fine dining type.chose to sit at fine dining area. The stewards looked and behaved very professional and they...More",40,Jul-18,4,Crust and Cream
 Tonyola_xo,Food ❤️❤️,"If you live in Lagos and you’re looking for somewhere affordable to have a nice lunch with your friends and family, Crust and Cream is the place to be.
-The price menu is very affordable. Customer service is lit 👌and the food is delicious 🤤...More",50,May 2018,4.0
-yizam2017,Wonderful service and delicious food,Staff are warm and friendly. My colleagues and I ordered several meals and none of us were disappointed. Would highly recommend it. Going back for the deserts we were too stuffed to try....,50,May 2018,4.0
-Pinkjacket,Best place for professional meeting,"Crust and Cream has been around for a while and unlike most places in Lagos, they have kept improving on their standards.",40,April 2018,4.0
+The price menu is very affordable. Customer service is lit 👌and the food is delicious 🤤...More",50,May-18,4,Crust and Cream
+yizam2017,Wonderful service and delicious food,Staff are warm and friendly. My colleagues and I ordered several meals and none of us were disappointed. Would highly recommend it. Going back for the deserts we were too stuffed to try....,50,May-18,4,Crust and Cream
+Pinkjacket,Best place for professional meeting,"Crust and Cream has been around for a while and unlike most places in Lagos, they have kept improving on their standards.",40,Apr-18,4,Crust and Cream
 WIH-Intl,"Fabulous Food , Great Atmosphere","Casual Dinner for 10 women.. 
 
 Lovely Atmosphere... 
@@ -58,90 +58,90 @@ Clean ..
 
 Attentive staff.. 
 
-All round great experience..",40,April 2018,4.0
-Arne B N,Hidden place,"Very good place, which is triple with a cafe with baked goods, a bar with lounge, and a restaurant at its very heart. Eaten there 3 times and the food has been good every time. However, they do not have proper coffee there, only espresso...More",50,April 2018,4.0
+All round great experience..",40,Apr-18,4,Crust and Cream
+Arne B N,Hidden place,"Very good place, which is triple with a cafe with baked goods, a bar with lounge, and a restaurant at its very heart. Eaten there 3 times and the food has been good every time. However, they do not have proper coffee there, only espresso...More",50,Apr-18,4,Crust and Cream
 Midibabe,Lunch at Crust & Cream,"Yummy Meals, quite an interesting experience.
-The restaurant ambience is nice and cosy and they do have yummy desserts.",40,May 2017,4.0
+The restaurant ambience is nice and cosy and they do have yummy desserts.",40,May-17,4,Crust and Cream
 adey_naija,Family Birthday Breakfast,"My  brother in law had a church service and breakfast to celebrate his birthday and Crsut & Cream was selected. We went with the option of both American and Nigerian dishes.
 
-First thing to mention is that the portions are generous and filling . Second...More",40,December 2017,4.0
-G5961YWdavida,Wonderful Place to Eat with Friends and Family,Veery nice ambience. Very nice food. Very good and courteous staff. I will always recommend Crust & Cream for Lunch and Dinners with friends and partners.,40,June 2017,4.0
+First thing to mention is that the portions are generous and filling . Second...More",40,Dec-17,4,Crust and Cream
+G5961YWdavida,Wonderful Place to Eat with Friends and Family,Veery nice ambience. Very nice food. Very good and courteous staff. I will always recommend Crust & Cream for Lunch and Dinners with friends and partners.,40,Jun-17,4,Crust and Cream
 Madgie M,Tasty lunch,"I wanted to try somewhere new for lunch during the school break, so I decided on Crust & Cream with my two daughters.
-We parked some distance away, and when we arrived I was tempted to turn back. The exterior looked a little shabby. Once...More",40,October 2017,4.0
+We parked some distance away, and when we arrived I was tempted to turn back. The exterior looked a little shabby. Once...More",40,Oct-17,4,Crust and Cream
 zonalagos,When the manager lacks customer centricity,"Very rarely will you find an establishment where A leader fails woefully, yet the staff and food are a 5/5 - Welcome to Crust&Cream 😏
 
-Very pleasant staff, appeared genuinely happy to have us. I had the Chicken Pasta Carbonara 👌🏾and a slice of the...More",40,October 2017,4.0
-Nata E,Lunch to celebrate a friend's goodnews,"The Customer service was very good and the food was well plated, mouthwatering, and delicious. The ambiance was good, quiet and friendly.  The waiters were also very friendly and helpful.  It didn't take long for the food to be served.",45,August 2017,4.0
-Travel_Zeee,Horrible horrible Customer Service from the manager  and poor quality take away order,"I've been going to crust and cream for sometime now, mostly for their pastas which I like. I however made a bad call to order some food for delivery, assuming quality will be the same. I ordered spring rolls, beef quesadilla, Seafood baked pasta and...More",40,September 2017,4.0
-Bart_Boy_ID,Great palce for Hangout,"Yes!! Here you can hangout and chit chat with ur best friends. The food serve is the best, you should try the creeps and cakes.",40,June 2017,4.0
-Mamameji,Great food,I really love the food at Crust and Cream. I have been a couple of times and everything I have eaten has always been very tasty. They also have a pastry bar with lots of lovely pastries and desserts. My only grouse is with the...More,20,May 2017,4.0
-ol b,Great Food and Shisha,The ambience in the restaurant was incredible and created a very relaxing vibe. The staff members were very courteous and the food came out pretty quickly after we ordered. The medium rare T-bone Steak was well seasoned and tasted nice with the accompanying creamy mashed...More,40,June 2017,4.0
-magieware,Pastries and desserts,I particularly like their bread rolls abd croissants. They also have some pretty cool ice cream. It's my quick pick up pastry place,10,February 2017,4.0
-Oge O,Crust and cream,It's a great place for people with sweet tooth. For me the main courses are over rated. The Chicken Roulade was tasteless. The interior is cool.,40,May 2017,4.0
-Elizabeth O,Interesting vibe,The place has various sitting areas depending on your mood. The menu had an interesting variety allowing one mix the local n international cuisine. They need to provide for international card payments in the restaurant..,40,May 2017,4.0
+Very pleasant staff, appeared genuinely happy to have us. I had the Chicken Pasta Carbonara 👌🏾and a slice of the...More",40,Oct-17,4,Crust and Cream
+Nata E,Lunch to celebrate a friend's goodnews,"The Customer service was very good and the food was well plated, mouthwatering, and delicious. The ambiance was good, quiet and friendly.  The waiters were also very friendly and helpful.  It didn't take long for the food to be served.",45,Aug-17,4,Crust and Cream
+Travel_Zeee,Horrible horrible Customer Service from the manager  and poor quality take away order,"I've been going to crust and cream for sometime now, mostly for their pastas which I like. I however made a bad call to order some food for delivery, assuming quality will be the same. I ordered spring rolls, beef quesadilla, Seafood baked pasta and...More",40,Sep-17,4,Crust and Cream
+Bart_Boy_ID,Great palce for Hangout,"Yes!! Here you can hangout and chit chat with ur best friends. The food serve is the best, you should try the creeps and cakes.",40,Jun-17,4,Crust and Cream
+Mamameji,Great food,I really love the food at Crust and Cream. I have been a couple of times and everything I have eaten has always been very tasty. They also have a pastry bar with lots of lovely pastries and desserts. My only grouse is with the...More,20,May-17,4,Crust and Cream
+ol b,Great Food and Shisha,The ambience in the restaurant was incredible and created a very relaxing vibe. The staff members were very courteous and the food came out pretty quickly after we ordered. The medium rare T-bone Steak was well seasoned and tasted nice with the accompanying creamy mashed...More,40,Jun-17,4,Crust and Cream
+magieware,Pastries and desserts,I particularly like their bread rolls abd croissants. They also have some pretty cool ice cream. It's my quick pick up pastry place,10,Feb-17,4,Crust and Cream
+Oge O,Crust and cream,It's a great place for people with sweet tooth. For me the main courses are over rated. The Chicken Roulade was tasteless. The interior is cool.,40,May-17,4,Crust and Cream
+Elizabeth O,Interesting vibe,The place has various sitting areas depending on your mood. The menu had an interesting variety allowing one mix the local n international cuisine. They need to provide for international card payments in the restaurant..,40,May-17,4,Crust and Cream
 Olubilly,Lovely!,"I am a sweet toothy......and checking out all those sweet and lovely cookies & cakes was heavenly.
-Great customer service.....will be there again!",40,April 2017,4.0
-Y6571FYandyc,Great Food Good Value,"I have been to Crust and Cream for dinner, for breakfast and for ice cream. It's a nice setting, the menu provides plenty of options for every palate and it's reasonably priced. For dinner I can recommend the Spicy Singaporean Chicken which will appeal to...More",40,April 2017,4.0
-juliamP5031RG,love the food!,great food and excellent service. Their banana bread is to die for!!! I would recommend their grilled chicken salad also and a good cup of latte for digestion!,40,January 2017,4.0
-380yemis,Late Breakfast,"So our Mothers Day celebration continues. Idea was to treat my wife to a cool breakfast and Cream & Crust delivered. Wifey had  English Breakfast (stewed egg, baked beans and plantain with complimentary glass of juice) I went for English Breakfast ( toast, eggs, baked...More",40,April 2017,4.0
-Valdis A,Aveage,"Very average place. Can't tell you something more, because as I saw - there is no any specialty in the concept of cafe. Simple, regular menu with very average service (floor manager always pushing waitstaff to attend the table or to do something). But clean...More",50,February 2017,4.0
-Paul H,Late evening snack with my wife,"Good quality food - we both ate fish dishes and quite enjoyed. Fresh lemonade drink was far too acidic and uncomfortable to drink - one waitress on our restaurant section due to a private party in another section, so service was poor - couldn't even...More",40,March 2017,4.0
+Great customer service.....will be there again!",40,Apr-17,4,Crust and Cream
+Y6571FYandyc,Great Food Good Value,"I have been to Crust and Cream for dinner, for breakfast and for ice cream. It's a nice setting, the menu provides plenty of options for every palate and it's reasonably priced. For dinner I can recommend the Spicy Singaporean Chicken which will appeal to...More",40,Apr-17,4,Crust and Cream
+juliamP5031RG,love the food!,great food and excellent service. Their banana bread is to die for!!! I would recommend their grilled chicken salad also and a good cup of latte for digestion!,40,Jan-17,4,Crust and Cream
+380yemis,Late Breakfast,"So our Mothers Day celebration continues. Idea was to treat my wife to a cool breakfast and Cream & Crust delivered. Wifey had  English Breakfast (stewed egg, baked beans and plantain with complimentary glass of juice) I went for English Breakfast ( toast, eggs, baked...More",40,Apr-17,4,Crust and Cream
+Valdis A,Aveage,"Very average place. Can't tell you something more, because as I saw - there is no any specialty in the concept of cafe. Simple, regular menu with very average service (floor manager always pushing waitstaff to attend the table or to do something). But clean...More",50,Feb-17,4,Crust and Cream
+Paul H,Late evening snack with my wife,"Good quality food - we both ate fish dishes and quite enjoyed. Fresh lemonade drink was far too acidic and uncomfortable to drink - one waitress on our restaurant section due to a private party in another section, so service was poor - couldn't even...More",40,Mar-17,4,Crust and Cream
 AvnerNa,"Nice, Clean and fresh food","strongly recommended for breakfast and lunch. and for meetings and families.
 
 very good service.
-fresh food and clean place.",40,February 2017,4.0
+fresh food and clean place.",40,Feb-17,4,Crust and Cream
 dejijolaoso,nice place,"great dining had a good spicy chicken dinner with homemade juice.
-A bit pricey but you will enjoy the place.",45,January 2017,4.0
+A bit pricey but you will enjoy the place.",45,Jan-17,4,Crust and Cream
 Chinchin09,My morning get away,"Great place for a yummy snack, tea or coffee or a sit down meal. I just love Crust and Cream. I have taken my husband and he loved it. My children love it. They always have a wide range of baked stuff.
-Great indoor and...More",40,February 2017,4.0
-mjacob007,Had a good time and food was good too,"We were at crust and crème for dinner and were very impressed again. Food was very good and large portions. The service was outstanding too, looks like they have just had a training. Stir fried noodles and prawns were nice, philly cheese steak sandwich and...More",40,February 2017,4.0
+Great indoor and...More",40,Feb-17,4,Crust and Cream
+mjacob007,Had a good time and food was good too,"We were at crust and crème for dinner and were very impressed again. Food was very good and large portions. The service was outstanding too, looks like they have just had a training. Stir fried noodles and prawns were nice, philly cheese steak sandwich and...More",40,Feb-17,4,Crust and Cream
 Oludare A,Crust & Cream Cuustomer Service is terrible,"I have never seen such poor service in my life before this day 27/12/2016.
-Not only did it take 1 hour 5 minutes for our order of an english and american breakfast to be served, but a customer that came after us got served before...More",50,December 2016,4.0
+Not only did it take 1 hour 5 minutes for our order of an english and american breakfast to be served, but a customer that came after us got served before...More",50,Dec-16,4,Crust and Cream
 Ayo O,They Take the Cake,"Crust and Cream is one place I will gladly recommend for quality food and good service. From pasta to burgers to salads and pastry, you won't be disappointed.
 And it is not pricey, especially when considered in respect to its neighbourhood.
 
-I also love the...More",40,December 2016,4.0
-beachbummer75,Mouthwatering desserts at amazing prices,"I am a huge dessert fan and so far, this is the best place for those craving for a really good quality dessert.  There is a wide range available to suit all palates and the prices are very reasonable compared to other places we have...More",50,December 2016,4.0
-BryanF4,Good Desert Offerings,Excellent pasties and ice creams are the key attraction here. Perfect for a coffee and snack after an outing elsewhere.,40,October 2016,4.0
-TukeMorgan,Consistently Good,I have been to Crust & Cream about 5 different times and had a Great Experience each time. It used to hands down be the most affordable restaurant in VI with Great Quality food. The prices have gone up a bit due to the current...More,10,September 2016,4.0
-FatimahAK,Always good,I love this place period. For couples or for group dining. Food is always good. They are always very accommodating.,40,November 2016,4.0
-794ceciliaj,Fabulous,"A gem of a place in a quiet corner of Victoria Island, Lagos.  Breakfast there one morning in September 2016 with a friend. I had English breadkfast. What a treat! Mr Paul's service made it all the more enjoyable. I would definitely go again next...More",50,September 2016,4.0
+I also love the...More",40,Dec-16,4,Crust and Cream
+beachbummer75,Mouthwatering desserts at amazing prices,"I am a huge dessert fan and so far, this is the best place for those craving for a really good quality dessert.  There is a wide range available to suit all palates and the prices are very reasonable compared to other places we have...More",50,Dec-16,4,Crust and Cream
+BryanF4,Good Desert Offerings,Excellent pasties and ice creams are the key attraction here. Perfect for a coffee and snack after an outing elsewhere.,40,Oct-16,4,Crust and Cream
+TukeMorgan,Consistently Good,I have been to Crust & Cream about 5 different times and had a Great Experience each time. It used to hands down be the most affordable restaurant in VI with Great Quality food. The prices have gone up a bit due to the current...More,10,Sep-16,4,Crust and Cream
+FatimahAK,Always good,I love this place period. For couples or for group dining. Food is always good. They are always very accommodating.,40,Nov-16,4,Crust and Cream
+794ceciliaj,Fabulous,"A gem of a place in a quiet corner of Victoria Island, Lagos.  Breakfast there one morning in September 2016 with a friend. I had English breadkfast. What a treat! Mr Paul's service made it all the more enjoyable. I would definitely go again next...More",50,Sep-16,4,Crust and Cream
 Jad S,Good old Crust & Cream,"A very nice restaurant with smoking & non-smoking areas.
 Went there on a Sunday lunch, had the spicy prawns. The food was fresh and served warm. The coffees and desserts were also top-notch.
-Mohammed the Lebanese manager was also very kind and helpful and chatty.",40,September 2016,4.0
-PatrickHaggerty,"Good eats, great desserts!","I thought at first this was just a bakery with great deserts. It turned out though that they have a bar, restaurant, and a bakery. I ate a burger and a fruit tart. Yum.",50,October 2016,4.0
-Ibarieze,Wonderful,"Tucked in a quiet neighbourhood in Victoria Island, yet brimming with customers. The decor and setting will catch your attention; and the array of sumptuous food and confectioneries will keep you coming back. Wouldrecommend again and again.",50,September 2016,4.0
-mjacob007,Tasty food and pleasant staff,"good choice of ice creams, cheese cakes, breads, wafles, suya, steak, pasta. staff were pleasant and helpful. very pleased with the food and good ambience, although when you look at it from the outside, its not so attractive.",50,September 2016,4.0
-262Blondy,Very good,"Very good place for meetings,dining. Its big,also have outdoor garden space.Good variety on the menu.Bakery for purchase and order. Available parking.",40,August 2016,4.0
+Mohammed the Lebanese manager was also very kind and helpful and chatty.",40,Sep-16,4,Crust and Cream
+PatrickHaggerty,"Good eats, great desserts!","I thought at first this was just a bakery with great deserts. It turned out though that they have a bar, restaurant, and a bakery. I ate a burger and a fruit tart. Yum.",50,Oct-16,4,Crust and Cream
+Ibarieze,Wonderful,"Tucked in a quiet neighbourhood in Victoria Island, yet brimming with customers. The decor and setting will catch your attention; and the array of sumptuous food and confectioneries will keep you coming back. Wouldrecommend again and again.",50,Sep-16,4,Crust and Cream
+mjacob007,Tasty food and pleasant staff,"good choice of ice creams, cheese cakes, breads, wafles, suya, steak, pasta. staff were pleasant and helpful. very pleased with the food and good ambience, although when you look at it from the outside, its not so attractive.",50,Sep-16,4,Crust and Cream
+262Blondy,Very good,"Very good place for meetings,dining. Its big,also have outdoor garden space.Good variety on the menu.Bakery for purchase and order. Available parking.",40,Aug-16,4,Crust and Cream
 Discoverlagosonline,"Awesome meals, pastries and cocktails!","A great pastierie and restaurant in victoria island. The seating area is light and airy and the environment is spotless, they have an attractive outdoor seating area with a patio that is beautifully designed. 
 
-The restaurant do a Moorish caesar salad, I would also recommend...More",45,August 2016,4.0
-Roobel,Good as expected,"I had read pretty odd reviews in the blog eatdrinklagos about this place and contrary  reviews in TripAdvisor. So I decided to try it out myself. So here's my opinion. Pretty good ambience. Outdoor, indoor, lounge, smoking lounge, cafe, bar ---- everything very conveniently and...More",40,July 2016,4.0
+The restaurant do a Moorish caesar salad, I would also recommend...More",45,Aug-16,4,Crust and Cream
+Roobel,Good as expected,"I had read pretty odd reviews in the blog eatdrinklagos about this place and contrary  reviews in TripAdvisor. So I decided to try it out myself. So here's my opinion. Pretty good ambience. Outdoor, indoor, lounge, smoking lounge, cafe, bar ---- everything very conveniently and...More",40,Jul-16,4,Crust and Cream
 PraveenK298,An Exclusive Dinner,"My wife and I enjoyed an exclusive dinner at this restaurant. The out door seating arrangements are an excellent place to relax. The food prepration is excellent; the helpings are large. The pricing is reasonable. 
-The environment is excellent.  The waiters serve with a welcome...More",40,July 2016,4.0
+The environment is excellent.  The waiters serve with a welcome...More",40,Jul-16,4,Crust and Cream
 Bart_Boy_ID,Great Place for relax,"Great place for relax, great environment. Plenty choice of food menu and the dessert also great. 
-Smoking room with AC.",50,July 2016,4.0
+Smoking room with AC.",50,Jul-16,4,Crust and Cream
 tjsmart,Best Carbonara pasta in Lagos!,"Great food and service when you get there. Delivery service is often not available and phones were ""turned off"" on more than a couple nights.
 
-When you get the food though, all tastes great and is well prepared. Take-out options available.",40,June 2016,4.0
-SlimBF,Great atmosphere,"Lovely bread and cakes with friendly and very efficient staff, TVs everywhere showing lots of sports. Pizzas are OK as to the sandwiches but great bakery products and bread. Separate smoking room makes a change in this part of the world.",40,May 2016,4.0
+When you get the food though, all tastes great and is well prepared. Take-out options available.",40,Jun-16,4,Crust and Cream
+SlimBF,Great atmosphere,"Lovely bread and cakes with friendly and very efficient staff, TVs everywhere showing lots of sports. Pizzas are OK as to the sandwiches but great bakery products and bread. Separate smoking room makes a change in this part of the world.",40,May-16,4,Crust and Cream
 Yinka S,Lovely laid back Dinner,"Went here with some friends for dinner on a Friday night.  The place was not overly  packed.  The food and service was a 10/10.  The drinks were also amazing.   Loads of varieties.  You will not be disappointed.  
-I am looking forward to brunch at this...More",40,February 2016,4.0
-THLagos,Good food but service staff problematic,"Had lunch at Crust & Cream (which is on VI) and the pizza was very good. Problem was four slices of pizza were left over and I asked them to be belted for takeaway. When I got home and opened the box, only three were...More",40,February 2016,4.0
-Omoba88,Nice,"The first time I went was when it first opened , me and my friend didn't really enjoy the food. Second time lucky, I had a spaghetti bolognese with the bread sticks it's was really nice. I also usually buy the marble cake yum ..",40,December 2015,4.0
+I am looking forward to brunch at this...More",40,Feb-16,4,Crust and Cream
+THLagos,Good food but service staff problematic,"Had lunch at Crust & Cream (which is on VI) and the pizza was very good. Problem was four slices of pizza were left over and I asked them to be belted for takeaway. When I got home and opened the box, only three were...More",40,Feb-16,4,Crust and Cream
+Omoba88,Nice,"The first time I went was when it first opened , me and my friend didn't really enjoy the food. Second time lucky, I had a spaghetti bolognese with the bread sticks it's was really nice. I also usually buy the marble cake yum ..",40,Dec-15,4,Crust and Cream
 Dudulicious,11am,"Interesting new joint for breakfast/brunch. Good, friendly service, freshly baked pastries, filling and tasty breakfast. 
 
-Next visit? Lunch time so watch this space!",50,September 2015,4.0
-viviani204,Try the grilled calamari with suya spice,"Crust & Cream is NOT in Festac but at 11, Musa Yardua street, Victoria Island. I went on a date there recently and was pleasantly surprised to see that there was a proper restaurant in addition to the pastry corner. I had the grilled Calamari...More",50,July 2015,4.0
+Next visit? Lunch time so watch this space!",50,Sep-15,4,Crust and Cream
+viviani204,Try the grilled calamari with suya spice,"Crust & Cream is NOT in Festac but at 11, Musa Yardua street, Victoria Island. I went on a date there recently and was pleasantly surprised to see that there was a proper restaurant in addition to the pastry corner. I had the grilled Calamari...More",50,Jul-15,4,Crust and Cream
 Anita F,Wrong city is on Tripadvisor...It's in Lagos,"I loved this place so much that I wanted to bookmark it in the Tripadvisor app,  but I was sad that it doesn't show up in Lagos listings.  
 
-This is a delicious,  comfortable restaurant",20,September 2015,4.0
-AEMSouthAfrica,Awesome,"Stunning Food, lovely to sit outside in the beautiful garden.  Service is good, and the pricing very fair.  Absolutely love this place and will go time and again",40,August 2015,4.0
-michaeleP9387CB,Good for a chillout with friends,"I came here with friends on a Friday night after work. Its quite a chilled out restaurant. It has an outdoor sitting area on the side, probably with about 6 tables. You could order Sisha to smoke outdoors. There's a lot of space in the...More",40,July 2015,4.0
-Tu-Vic,"A warm, friendly place with good food",I had a lovely brunch here and was impressed by the warmth and attentiveness of the staff and management. They really go out of their way to make you happy. I enjoyed my meal too. Looking forward to returning and trying other items on the...More,40,June 2015,4.0
-stoma4u,Talk of the town,"I enjoyed there food and the service is great. Varieties of pastries as well food and drinks, the service is top (thanks for the management ) hope to open in Abuja 😢",45,February 2015,4.0
+This is a delicious,  comfortable restaurant",20,Sep-15,4,Crust and Cream
+AEMSouthAfrica,Awesome,"Stunning Food, lovely to sit outside in the beautiful garden.  Service is good, and the pricing very fair.  Absolutely love this place and will go time and again",40,Aug-15,4,Crust and Cream
+michaeleP9387CB,Good for a chillout with friends,"I came here with friends on a Friday night after work. Its quite a chilled out restaurant. It has an outdoor sitting area on the side, probably with about 6 tables. You could order Sisha to smoke outdoors. There's a lot of space in the...More",40,Jul-15,4,Crust and Cream
+Tu-Vic,"A warm, friendly place with good food",I had a lovely brunch here and was impressed by the warmth and attentiveness of the staff and management. They really go out of their way to make you happy. I enjoyed my meal too. Looking forward to returning and trying other items on the...More,40,Jun-15,4,Crust and Cream
+stoma4u,Talk of the town,"I enjoyed there food and the service is great. Varieties of pastries as well food and drinks, the service is top (thanks for the management ) hope to open in Abuja 😢",45,Feb-15,4,Crust and Cream
 MiddleMan2014,Best new restaurant in Lagos,"Great food
 Great pastries
 Great coffee
 Great everything!
-This is a must check out if you're in Lagos, they literally serve anything! Quite like a Cheesecake Factory, Lagos style.",40,October 2014,4.0
+This is a must check out if you're in Lagos, they literally serve anything! Quite like a Cheesecake Factory, Lagos style.",40,Oct-14,4,Crust and Cream

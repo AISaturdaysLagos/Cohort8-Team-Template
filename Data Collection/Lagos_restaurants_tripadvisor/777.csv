@@ -1,7 +1,7 @@
-author_name,review_title,review_text,author_rating,visit_date,overall_rating
+author_name,review_title,review_text,author_rating,visit_date,overall_rating,restaurant_name
 hossanahj,Homely Food,"Homely Food 
 
-Wow Ate their coconut rice,Chinese rice,Efo-riro, it's rich & delicious and their are wide variety to select from",50,October 2019,5.0
-chioma j,Spaghetti and chicken,"There foods are very homely and delicious,I love it so much. There africana dishes taste nice and sweet.",40,January 2020,5.0
-Folake I,Sightseeing,"It’s a nice place to eat good food with homely tastes. They’v have quite numbers of African dishes and these are what distinguished 777 from other fast-food in the locality. The hygiene is excellent, well behaved staff with good customer services. Conducive environment",50,February 2019,5.0
-777eatinghouse,A fast-food restaurant with a difference .,"Excellent hygiene, good foods with homely tastes . Very conducive environment. Good customer services, good music and very accessible.",50,April 2019,5.0
+Wow Ate their coconut rice,Chinese rice,Efo-riro, it's rich & delicious and their are wide variety to select from",50,Oct-19,5,777
+chioma j,Spaghetti and chicken,"There foods are very homely and delicious,I love it so much. There africana dishes taste nice and sweet.",40,Jan-20,5,777
+Folake I,Sightseeing,"It’s a nice place to eat good food with homely tastes. They’v have quite numbers of African dishes and these are what distinguished 777 from other fast-food in the locality. The hygiene is excellent, well behaved staff with good customer services. Conducive environment",50,Feb-19,5,777
+777eatinghouse,A fast-food restaurant with a difference .,"Excellent hygiene, good foods with homely tastes . Very conducive environment. Good customer services, good music and very accessible.",50,Apr-19,5,777

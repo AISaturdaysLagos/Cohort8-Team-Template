@@ -1,9 +1,9 @@
-author_name,review_title,review_text,author_rating,visit_date,overall_rating
+author_name,review_title,review_text,author_rating,visit_date,overall_rating,restaurant_name
 ooobabatunde,Excellent.,"It has been over 5 years since I was last here, I was quite impressed that quality has not slipped. Food was excellent,  wine was very good. Definitely one of the hidden gems in Lagos. Will definitely recommend and visit again! 
 
-Well done!",40,March 2023,4.0
-Dee21much,Five Star Restaurant,A great experience. The service was top notch. Would recommend this place for anyone visiting Lagos.,45,November 2021,4.0
-olufuntof,Just an okay place,"Maybe this place used to be tops. I didn’t get that vibe upon visiting this restaurant. First off, the lack of a signboard to properly locate this place was non existent.. secondly, except if traditional was a vibe they are going for? It’s not westernized...enough. It reminds me of the good old days. The food is alright but could be better. Especially for the price charged.More",45,August 2021,4.0
+Well done!",40,Mar-23,4,Talindo Steakhouse
+Dee21much,Five Star Restaurant,A great experience. The service was top notch. Would recommend this place for anyone visiting Lagos.,45,Nov-21,4,Talindo Steakhouse
+olufuntof,Just an okay place,"Maybe this place used to be tops. I didn’t get that vibe upon visiting this restaurant. First off, the lack of a signboard to properly locate this place was non existent.. secondly, except if traditional was a vibe they are going for? It’s not westernized...enough. It reminds me of the good old days. The food is alright but could be better. Especially for the price charged.More",45,Aug-21,4,Talindo Steakhouse
 Namdi1982,Very Private - even when full.,"This is ""the"" spot for date night or a business meeting. No kids allowed, no shorts, not unnecessarily noisy. Very straightforward. 
 
 When we came in there was only one other table seated. Soon after we got our drinks other tables got occupied and it was...a full house or close to. Still, the place felt very private. Tables are spaced out appropriately and there are a lot of corner tables to choose from.
@@ -12,11 +12,11 @@ Food - amazing.
 Service - surprisingly really good and well coordinated. 
 Venue - private, modern, minimalistic. Shame there isn't an outdoor.
 
- My new spot in Lagos.More",40,January 2021,4.0
-AdioB,Lovely Place,"This restaurant is located on a one way street with inside and outside parking. The entrance looks unassuming until you step into an enclave of white and ebony colours, silverware and furniture. The food is a specially crafted for elegance. Lovely place for dates. The...waiters are neat, articulate, observant  and take their jobs very seriously. They are good at recommending dishes and seem to take pride in making sure you have a good experience.More",35,December 2019,4.0
-Olubilly,Nice dining,Talindo still remains one of fine dining places on the island....lovely environment and great food..They make great steak menus...did a takeaway!,50,November 2019,4.0
-Liglossmaffia,Amazing mixed grill!,"I brought my mum here to celebrate her birthday. The prices threw her off so I suggested the mixed grill. It came with three sides. They were so properly spiced. The steak was well cooked, the chicken was divine. The calamari was fantastic! I had...the popular Henessy cocktail and I didn't like it. I guess I have a sweet tooth. Highly recommended especially for dates.More",50,June 2019,4.0
-Wole O,Talindo steak,"I had heard about this place before we went. So when it was suggested, I said okay, let's see. We were the only ones when we got in, but by midway it was different. Food came promptly and everything seemed nice, only very ordinary. The...staff were very courteous and well trained, they could have been robots. Talindo seems a popular place in Lagos, but for me, too staid, space too small and the fare too plain. It's an accountants dream. Too dull.More",20,January 2019,4.0
+ My new spot in Lagos.More",40,Jan-21,4,Talindo Steakhouse
+AdioB,Lovely Place,"This restaurant is located on a one way street with inside and outside parking. The entrance looks unassuming until you step into an enclave of white and ebony colours, silverware and furniture. The food is a specially crafted for elegance. Lovely place for dates. The...waiters are neat, articulate, observant  and take their jobs very seriously. They are good at recommending dishes and seem to take pride in making sure you have a good experience.More",35,Dec-19,4,Talindo Steakhouse
+Olubilly,Nice dining,Talindo still remains one of fine dining places on the island....lovely environment and great food..They make great steak menus...did a takeaway!,50,Nov-19,4,Talindo Steakhouse
+Liglossmaffia,Amazing mixed grill!,"I brought my mum here to celebrate her birthday. The prices threw her off so I suggested the mixed grill. It came with three sides. They were so properly spiced. The steak was well cooked, the chicken was divine. The calamari was fantastic! I had...the popular Henessy cocktail and I didn't like it. I guess I have a sweet tooth. Highly recommended especially for dates.More",50,Jun-19,4,Talindo Steakhouse
+Wole O,Talindo steak,"I had heard about this place before we went. So when it was suggested, I said okay, let's see. We were the only ones when we got in, but by midway it was different. Food came promptly and everything seemed nice, only very ordinary. The...staff were very courteous and well trained, they could have been robots. Talindo seems a popular place in Lagos, but for me, too staid, space too small and the fare too plain. It's an accountants dream. Too dull.More",20,Jan-19,4,Talindo Steakhouse
 johne999a,Big key down,"I was asked to recommend a place for my boss for a company dinner, we have eaten in many places in Lagos but not here. 
 
 Finding it was fun, no sign outside, no one in the street knew, arrived, Tuesday with reservation, need not have...worried only two other tables occupied.
@@ -25,127 +25,127 @@ Service was slow, each request required consultation, finally placed our orders.
 
 We avoided steaks so as not to be too disappointed, my boss and partner had fish, which was pretty OK. I had a shrimp concoction, which was just shrimp and tomato sauce. Tasty but simple especially as it was more than $25.
 
-The wine list is very limited, especially whites, so really don’t go expecting an amazing culinary experience.More",50,November 2018,4.0
-T-Africa2000,No international credit cards,Talindo is an old favourite in Lagos and they have certainly kept the quality of the food up. I had a steak with prawns and it was really good. Our waiter tried very hard but was a little unsure of himself. The downstairs section is...being refurbished so we were on the second floor which wasn't as cozy. At the end of the meal I wanted to pay with my international visa card and we were informed that they currently only accept local credit cards. They really should have let us know earlier. I didn't have enough cash on hand and my Nigerian colleague had to pick up the tab. Not great.More,40,September 2018,4.0
+The wine list is very limited, especially whites, so really don’t go expecting an amazing culinary experience.More",50,Nov-18,4,Talindo Steakhouse
+T-Africa2000,No international credit cards,Talindo is an old favourite in Lagos and they have certainly kept the quality of the food up. I had a steak with prawns and it was really good. Our waiter tried very hard but was a little unsure of himself. The downstairs section is...being refurbished so we were on the second floor which wasn't as cozy. At the end of the meal I wanted to pay with my international visa card and we were informed that they currently only accept local credit cards. They really should have let us know earlier. I didn't have enough cash on hand and my Nigerian colleague had to pick up the tab. Not great.More,40,Sep-18,4,Talindo Steakhouse
 lizzielicious,Nice lunch,"Hello,
 Our international machine was down and has just been replaced by our bank. We apologise for the inconvenience.
 
-Happy to hear you enjoyed your meal and we can't wait to get done with our renovation. Hopefully see you when we reopen the main restaurant....More",40,August 2018,4.0
-Francis N,"Excellent meal, excellent place, excellent service","I took my significant other here to celebrate his birthday. We're huge meat lovers so our expectations were very high. We went on a Saturday afternoon and the place was basically empty which we didn't mind. Service was great; waiter was very attentive. Our starters...were a bit underwhelming. For starters, we had feta rolls and calamari. The calamari had more veg than actual calamari and the dip for the feta rolls was way too spicy for the type of rolls served. We had our steaks medium rare and they were quite tasty although a bit too bloody and chewy for my liking in some parts. The mash was nice and very creamy. The fries had a weird taste as though it had been in the freezer for too long. It was definitely an above average meal and I left there feeling well fed but for the prices, I expected perfection. I was in a good mood that day as we were celebrating so I didn't bother kicking up a fuss. I'd go back and maybe try the pork.More",40,August 2017,4.0
-missdeola,Food so good you forget how expensive it is.,"Had a business dinner for about 10 people and never knew a place so nice was quietly tucked in a corner in Victoria Island. The place has no signage but was invited by friends. The meal was excellent, the service excellent too, the ambience was...cozy and very nice. I actually took my family for Sunday lunch soon after and they had a brilliant time. I recommend the desert of hot chocolate cake with vanilla ice cream served steaming- melts in your mouth.More",30,July 2017,4.0
-0_Lumi_A,Good Food - Pricey - Small Portions,"I had the best salad at Talindo's. Great service. Friendly staff. The soft music and lights set the perfect mood. Ideal for couples and lovers of steak, just be prepared to wait a little longer if you order any of the beef meals.",30,April 2018,4.0
+Happy to hear you enjoyed your meal and we can't wait to get done with our renovation. Hopefully see you when we reopen the main restaurant....More",40,Aug-18,4,Talindo Steakhouse
+Francis N,"Excellent meal, excellent place, excellent service","I took my significant other here to celebrate his birthday. We're huge meat lovers so our expectations were very high. We went on a Saturday afternoon and the place was basically empty which we didn't mind. Service was great; waiter was very attentive. Our starters...were a bit underwhelming. For starters, we had feta rolls and calamari. The calamari had more veg than actual calamari and the dip for the feta rolls was way too spicy for the type of rolls served. We had our steaks medium rare and they were quite tasty although a bit too bloody and chewy for my liking in some parts. The mash was nice and very creamy. The fries had a weird taste as though it had been in the freezer for too long. It was definitely an above average meal and I left there feeling well fed but for the prices, I expected perfection. I was in a good mood that day as we were celebrating so I didn't bother kicking up a fuss. I'd go back and maybe try the pork.More",40,Aug-17,4,Talindo Steakhouse
+missdeola,Food so good you forget how expensive it is.,"Had a business dinner for about 10 people and never knew a place so nice was quietly tucked in a corner in Victoria Island. The place has no signage but was invited by friends. The meal was excellent, the service excellent too, the ambience was...cozy and very nice. I actually took my family for Sunday lunch soon after and they had a brilliant time. I recommend the desert of hot chocolate cake with vanilla ice cream served steaming- melts in your mouth.More",30,Jul-17,4,Talindo Steakhouse
+0_Lumi_A,Good Food - Pricey - Small Portions,"I had the best salad at Talindo's. Great service. Friendly staff. The soft music and lights set the perfect mood. Ideal for couples and lovers of steak, just be prepared to wait a little longer if you order any of the beef meals.",30,Apr-18,4,Talindo Steakhouse
 Olumide K,A must visit,"The food here is good but expensive!
 Ambience is ok. Staff can do with better training.
 Restrooms are clean and tidy.
 Food is in very small portions......
 You have to be careful when locating the place because there is no sign outside the restaurant and...this can be very frustrating for first-timers.
-You can use other house numbers to locate the restaurant.More",40,August 2017,4.0
+You can use other house numbers to locate the restaurant.More",40,Aug-17,4,Talindo Steakhouse
 Tyralagos,Date night with Le boo,"First of all Talindo is pricey. But i loved the slow soft music in the background and the dimmed lights for a truly romantic experience.
-Had the suya chicken wings as a starter, it was just ok, the suya pepper coating i felt was a...More",40,November 2017,4.0
-Christophernd,"lovely food,intimate.",Thank you very much for your review. Happy to see you enjoyed the lamb shank! We will do our best to improve the presentation and thank you for your advice. Hopefully we can wow you on your next visit!,45,July 2017,4.0
+Had the suya chicken wings as a starter, it was just ok, the suya pepper coating i felt was a...More",40,Nov-17,4,Talindo Steakhouse
+Christophernd,"lovely food,intimate.",Thank you very much for your review. Happy to see you enjoyed the lamb shank! We will do our best to improve the presentation and thank you for your advice. Hopefully we can wow you on your next visit!,45,Jul-17,4,Talindo Steakhouse
 mjacob007,"Good food, not so good experience.","Talindo steak house(funny name while they serve seafood) has fine dinning which makes for an intimate setting.The seafood was tasty(i had a prawn dish) and wine selection are quite good. 
-If you are looking for somewhere to dine with a date or significant other, talindo...More",45,October 2017,4.0
+If you are looking for somewhere to dine with a date or significant other, talindo...More",45,Oct-17,4,Talindo Steakhouse
 1onechance,Good food smallpprtions,"hello,
 
-We are happy to hear that you enjoyed your meal. While we primarily serve steak we have many other options on our menu. Maybe you'll get to try the steak next time! Thank you for the review.",40,February 2017,4.0
-adakujennifero,Delicious!,Parking is tight. Small restaurant with some decent wine. Some of our guys had steak and it was nice. Good feedback from those who had jack Daniel special. I had a lobster bisque and that was A class. The waiters can do good with some...More,35,July 2017,4.0
+We are happy to hear that you enjoyed your meal. While we primarily serve steak we have many other options on our menu. Maybe you'll get to try the steak next time! Thank you for the review.",40,Feb-17,4,Talindo Steakhouse
+adakujennifero,Delicious!,Parking is tight. Small restaurant with some decent wine. Some of our guys had steak and it was nice. Good feedback from those who had jack Daniel special. I had a lobster bisque and that was A class. The waiters can do good with some...More,35,Jul-17,4,Talindo Steakhouse
 ELENA M,DELICIOUS EXPERIENCE,"Hello,
-We are happy to hear that you enjoyed your meal. Please let us know the date of your visit as that would be very helpful.",30,February 2017,4.0
-TimmoW16,Great pasta and seafood as well as steak,"Food is very tasty, bt there is need to work on the size of portions. I finished my rather pricey entree feeling very unsatisfied. The food was enjoyable",40,March 2017,4.0
+We are happy to hear that you enjoyed your meal. Please let us know the date of your visit as that would be very helpful.",30,Feb-17,4,Talindo Steakhouse
+TimmoW16,Great pasta and seafood as well as steak,"Food is very tasty, bt there is need to work on the size of portions. I finished my rather pricey entree feeling very unsatisfied. The food was enjoyable",40,Mar-17,4,Talindo Steakhouse
 Geraldattila,Poor,"Hello,
 
-Thank you for a positive review! Please let us know what you had and what date was your visit as we always do our best to follow up on customer feedback.",30,May 2017,4.0
-Amal A,Slow cooked lamb to die for! Great cocktails...,"The pasta was really good, the steak was fantastic, nice ambience friendly staffs, quite difficult to locate though, we kept going round and round looking for a signboard with the restaurant name on it then we made a call to get a proper description. But...More",40,May 2017,4.0
+Thank you for a positive review! Please let us know what you had and what date was your visit as we always do our best to follow up on customer feedback.",30,May-17,4,Talindo Steakhouse
+Amal A,Slow cooked lamb to die for! Great cocktails...,"The pasta was really good, the steak was fantastic, nice ambience friendly staffs, quite difficult to locate though, we kept going round and round looking for a signboard with the restaurant name on it then we made a call to get a proper description. But...More",40,May-17,4,Talindo Steakhouse
 Ashley648,Not quite what I expected,"Hello,
 
 Thank you very much for a great review and we hope we get a chance to make those 4 stars a 5 someday soon!
 
 Best regards,
-Claudio",40,May 2017,4.0
-gcxotf,Gr8 steak,"We went in February to enjoy our Valentines dinner and it was perfect! Food was delicious and dessert was a dream. We really enjoyed the evening and also they had complimentary red roses for the ladies, they take care of details!",50,March 2017,4.0
-munao125,Saturday night pre-birthday meal,Thank you for an amazing review!,50,March 2017,4.0
-AshwinRavichandran,A best steak in a long time,I have been here several times now and not only is there steak such as the Jack Daniels steak a great choice; I must say their pasta dishes are superb. You also cannot go wrong with the surf & turf options.,20,March 2017,4.0
+Claudio",40,May-17,4,Talindo Steakhouse
+gcxotf,Gr8 steak,"We went in February to enjoy our Valentines dinner and it was perfect! Food was delicious and dessert was a dream. We really enjoyed the evening and also they had complimentary red roses for the ladies, they take care of details!",50,Mar-17,4,Talindo Steakhouse
+munao125,Saturday night pre-birthday meal,Thank you for an amazing review!,50,Mar-17,4,Talindo Steakhouse
+AshwinRavichandran,A best steak in a long time,I have been here several times now and not only is there steak such as the Jack Daniels steak a great choice; I must say their pasta dishes are superb. You also cannot go wrong with the surf & turf options.,20,Mar-17,4,Talindo Steakhouse
 Adedayo A,My best meal in Lagos,"Hello,
 
-Thank you for a great review!",50,March 2017,4.0
-Kingsley Ugo. M,Very good steak house,Over priced and over hyped. Food was below par..cud have done better at home..Wasnt impressed...Thinks it exclusive...needs a reality check. Service prob only thing average...all else...was poor..,20,December 2016,4.0
-normao235,Delicious steak in a cozy place,"The meal here was fantastic, the starter, a bacon wrapped chicken dish was tender and moist, the pesto pasta was amazing and the steak was just, yummy is the word. The surprising star of the show however is the delicious brownie on a hot-plate, it...More",40,February 2017,4.0
+Thank you for a great review!",50,Mar-17,4,Talindo Steakhouse
+Kingsley Ugo. M,Very good steak house,Over priced and over hyped. Food was below par..cud have done better at home..Wasnt impressed...Thinks it exclusive...needs a reality check. Service prob only thing average...all else...was poor..,20,Dec-16,4,Talindo Steakhouse
+normao235,Delicious steak in a cozy place,"The meal here was fantastic, the starter, a bacon wrapped chicken dish was tender and moist, the pesto pasta was amazing and the steak was just, yummy is the word. The surprising star of the show however is the delicious brownie on a hot-plate, it...More",40,Feb-17,4,Talindo Steakhouse
 veenakrishnamoorthy,One of my best meals in Lagos,"Hello,
 
 thank you for the lovely review. We hope to see you at the restaurant soon!
 
 Best regards,
-Claudio",45,January 2017,4.0
-Preshie143,Amazing!,"As a vegetarian, my options to eat out in Lagos is limited.  Talindo is in my top 3 restaurants in Lagos.  The vegetarian options are limited, but what they have is very good.  Must try the Chapman and the Pesto pasta",45,December 2016,4.0
+Claudio",45,Jan-17,4,Talindo Steakhouse
+Preshie143,Amazing!,"As a vegetarian, my options to eat out in Lagos is limited.  Talindo is in my top 3 restaurants in Lagos.  The vegetarian options are limited, but what they have is very good.  Must try the Chapman and the Pesto pasta",45,Dec-16,4,Talindo Steakhouse
 VivP2,Very good,"Hello,
 
 Thank you for an amazing review and we are happy that you found something for you in our vegetarian options. We promise new vegetarian dishes to come!
 
 Best regards,
-Claudio",40,February 2017,4.0
+Claudio",40,Feb-17,4,Talindo Steakhouse
 marc30783,Home cooked meals away from home.. But with a definite twist...,"At first I wasn't sure of coming here as I don't eat steak but I'm happy I did! First of all, the service is 5 star. The best service I've received in any restaurant in Nigeria.
-I had the lobster which was cooked very well....More",35,December 2016,4.0
+I had the lobster which was cooked very well....More",35,Dec-16,4,Talindo Steakhouse
 222pierm,Delicious house steak,"Hello,
 
 thank you for an amazing review and we hope to see you soon.
 
 Best regards,
-Claudio",50,November 2016,4.0
-marcnivette,"Amazing food, amazing service","Very nice ambience, nice music. We dined downstairs, I hear there's a nice room, bigger, upstairs. It would have been perfect for me if I didn't think there was almost too much salt in every dish (appetizers too). The lobster was a little dry, the...More",50,November 2016,4.0
+Claudio",50,Nov-16,4,Talindo Steakhouse
+marcnivette,"Amazing food, amazing service","Very nice ambience, nice music. We dined downstairs, I hear there's a nice room, bigger, upstairs. It would have been perfect for me if I didn't think there was almost too much salt in every dish (appetizers too). The lobster was a little dry, the...More",50,Nov-16,4,Talindo Steakhouse
 Aliaksandra P,Love it,"Hello,
 
 thank you for the review and we will definitely look into the salt as well as the sauce.
 
 Best regards,
-Claudio",50,November 2016,4.0
+Claudio",50,Nov-16,4,Talindo Steakhouse
 beachbummer75,Average dinner experience,"To start.. A little bit about me..
 Grew up in Lagos.. Proudly Naija...
 And for the first time... I've found a place that brings back so many memories of Mama's kitchen while growing up..
 Good home cooked meals, but with a twist.
-The icing on...More",40,November 2016,4.0
+The icing on...More",40,Nov-16,4,Talindo Steakhouse
 W5227FXpeterf,For the Best of Privacy,"Hello,
 
 Thank you for such a great review. Hope to see you very soon!
 
 Best regards,
-Claudio",50,November 2016,4.0
-Roobel,Good place. Worth it.,I ate a delicious filet steak with a delicious souce with potatos . The place is costly but the quality is high level. What missed is bottle beer I hate eating so delicious meal with cane drinks.,40,November 2016,4.0
+Claudio",50,Nov-16,4,Talindo Steakhouse
+Roobel,Good place. Worth it.,I ate a delicious filet steak with a delicious souce with potatos . The place is costly but the quality is high level. What missed is bottle beer I hate eating so delicious meal with cane drinks.,40,Nov-16,4,Talindo Steakhouse
 KenCooper1953,Great steaks,"Hello,
 
 thank you for the great review.
 
 Best regards,
-Claudio",50,July 2016,4.0
-BRU_traveller83,Good steakhouse,"Everything was excellent, the quality of the food amazing, perfect atmosphere. Highly recommend this place.",50,October 2016,4.0
+Claudio",50,Jul-16,4,Talindo Steakhouse
+BRU_traveller83,Good steakhouse,"Everything was excellent, the quality of the food amazing, perfect atmosphere. Highly recommend this place.",50,Oct-16,4,Talindo Steakhouse
 Keresa,"Perfect meal, but extremely expensive.$$$$","Hello,
 
 thank you very much for the review and we hope to see you soon.
 
 Best regards,
-Claudio",30,September 2016,4.0
+Claudio",30,Sep-16,4,Talindo Steakhouse
 dedoy2000,Real Steak,"It's an excellent place! I've been there on few occasions: romantic dinner, business meeting and several dinners with friends. Food is delicious every time but my favourite is probably Jack Daniels Steak. 
-Great escape from city routine. An island of peace and distinguished cuisine in...More",50,June 2016,4.0
-Olawunmi O,Food was awesome,Talindo Steak House is absolutely amazing with food everything you order tastes good. The ambience of the restaurant is great. the staffs.,40,March 2016,4.0
+Great escape from city routine. An island of peace and distinguished cuisine in...More",50,Jun-16,4,Talindo Steakhouse
+Olawunmi O,Food was awesome,Talindo Steak House is absolutely amazing with food everything you order tastes good. The ambience of the restaurant is great. the staffs.,40,Mar-16,4,Talindo Steakhouse
 Thomas D,Good steak,"Hello,
 
 Thank you very much for an amazing review. We will do our best to keep it up and hope to see you again.
 
 Best regards, 
-Claudio",45,June 2016,4.0
-Onlyoneodini,Food was great,"I was surprised to find such a good place for steak in Lagos. The meat is good and made exactly to your preferences. A tip, ask if the credit card machine is working before you sit down. However great service and a convienent place to...More",45,April 2016,4.0
+Claudio",45,Jun-16,4,Talindo Steakhouse
+Onlyoneodini,Food was great,"I was surprised to find such a good place for steak in Lagos. The meat is good and made exactly to your preferences. A tip, ask if the credit card machine is working before you sit down. However great service and a convienent place to...More",45,Apr-16,4,Talindo Steakhouse
 gbemolala,Gbemisola,"Hello,
 
 Thank you very much for the positive review. We apologise for any inconvenience the post machine might have causedone but unfortunately we have no control overy this and cannot predict when it might happen.
 
-We have spoken to our banks repeteadly but to no...More",40,May 2016,4.0
-SJFindlay,Great meat in Lagos,It was the location for a going away party and the ambience was great. Claudio was really helpful and he made organizing it a lot easier. He gave useful suggestions that made the event a success.,35,April 2016,4.0
+We have spoken to our banks repeteadly but to no...More",40,May-16,4,Talindo Steakhouse
+SJFindlay,Great meat in Lagos,It was the location for a going away party and the ambience was great. Claudio was really helpful and he made organizing it a lot easier. He gave useful suggestions that made the event a success.,35,Apr-16,4,Talindo Steakhouse
 segunopeke,excellent restaurant. Attention to detail,"Hello,
 Thank you for a great review! It was a pleasure having you and hope to see you again soon!
 
 Best regards,
 Claudio Indovino 
-Talindo Steak House",50,March 2016,4.0
-Hamyna,really  cool,"Where do I start from.....having not been here in about 4yrs, we thought it right to give it another go on my wife's birthday weekend.....the food was and is still as good, or should I say.....great. I'm a medium-eating steak man and the steak on...More",40,September 2015,4.0
+Talindo Steak House",50,Mar-16,4,Talindo Steakhouse
+Hamyna,really  cool,"Where do I start from.....having not been here in about 4yrs, we thought it right to give it another go on my wife's birthday weekend.....the food was and is still as good, or should I say.....great. I'm a medium-eating steak man and the steak on...More",40,Sep-15,4,Talindo Steakhouse
 momoah,Wow world class food,"Hello,
 
 Thank you for such a positive review! We wouldn't be Talindo without the amazing people that visit us and share their experience with others. 
@@ -154,84 +154,84 @@ I apologise for the POS issue and will definitely look into it.
 
 Best regards, 
 Claudio Indovino 
-Talindo Steak House",40,February 2016,4.0
-vanessaeila,Great Food,"In Lagos, it can be hard to find good meat. Not in Talindo, where the steak is not only delicious it is accompanied by soulful sides and expertly crafted cocktails.",50,September 2015,4.0
+Talindo Steak House",40,Feb-16,4,Talindo Steakhouse
+vanessaeila,Great Food,"In Lagos, it can be hard to find good meat. Not in Talindo, where the steak is not only delicious it is accompanied by soulful sides and expertly crafted cocktails.",50,Sep-15,4,Talindo Steakhouse
 Toni190454,Great food,"Hello,
 
 Thank you very much for a great review. It is always a pleasure having you at Talindo!
 
 Best regards,
 Claudio Indovino 
-Talindo Steak",50,November 2015,4.0
-SamKing M,Find Dining,"Atmosphere is excellent, meal was awesome and really nice. the service was quite nice as well and the food was not unnecessarily delayed",50,October 2015,4.0
+Talindo Steak",50,Nov-15,4,Talindo Steakhouse
+SamKing M,Find Dining,"Atmosphere is excellent, meal was awesome and really nice. the service was quite nice as well and the food was not unnecessarily delayed",50,Oct-15,4,Talindo Steakhouse
 elp4567,"Delicious starters, fabulous Jack Daniels Steak!","Thank you very much for the positive feedback and hope to see you back soon!
 
 Best regards, 
 Claudio Indovino
-Talindo Steak House",40,April 2015,4.0
+Talindo Steak House",40,Apr-15,4,Talindo Steakhouse
 Gbemileke O,Great place to celebrate good news,"i was here to have a quite dinner
 the shrimp cocktail and my dessert were very tasty
-would come again",50,June 2015,4.0
+would come again",50,Jun-15,4,Talindo Steakhouse
 Discoverlagosonline,Michelin star In Lagos AWESOME! AWESOME!! AWESOME!!!,"Hello,
 
 Thank you for the positive review!
 
 Best regards, 
 Claudio Indovino 
-Talindo Steak House",40,July 2015,4.0
+Talindo Steak House",40,Jul-15,4,Talindo Steakhouse
 gamboolman,Talindo,"Just came back from business dinner, the surf and turf was divine! The food could have been first class in any major city! I'm really impressed👌🏾
-Hope they keep it up",40,August 2015,4.0
+Hope they keep it up",40,Aug-15,4,Talindo Steakhouse
 Yves N,LOVELY RESTAURENT BEST STEAK IN LAGOS,"Talindo steak house is the best restaurant you can dine inn in lagos 
-the steak are lovely, the quality of food us outstanding you cant Visit the restaurant and not do it again.",40,July 2015,4.0
+the steak are lovely, the quality of food us outstanding you cant Visit the restaurant and not do it again.",40,Jul-15,4,Talindo Steakhouse
 marekchinedu,Best steaks in Lagos.,"Hello,
 
 Thank you very much for an amazing review!
 
 Best regards, 
-Claudio",45,June 2015,4.0
+Claudio",45,Jun-15,4,Talindo Steakhouse
 Valnyla_01,Oohh la la la,"You want to kill for Jack Daniel's stake. Chocolate brownie as dessert is a masterpiece.
-Very good customer service, I've been there many times and I'm always served by the same waiters, that's a good sign.",45,,4.0
+Very good customer service, I've been there many times and I'm always served by the same waiters, that's a good sign.",45,,4,Talindo Steakhouse
 Tope J,Great place,"Hello,
 
 Thank you very much for an amazing review!
 
 Best regards, 
-Claudio",40,February 2015,4.0
-TimmoW16,Good steakhouse,Awesome Jack Daniel steak...I didn't remember to take a picture until I was done!! Wow....Had it with fries...comes with vegetables... mmm mmm mmm... Cocktails too! The lava brownie on hot plate was fantastic! ChocoGasmz😍,35,November 2014,4.0
-M R,Average quality for the price - and don't dare ask to swap your side!,"located in Victoria Island, can easily be missed if you have not been there before, but this gives its nice serene atmosphere.Good food and service and not crowded. A place to go with friends and family",50,March 2015,4.0
-Oyinkan F,Amazing Steak,If you want good quality steak in Lagos be prepared to pay. The atmosphere was slightly sterile but not bad. The steak was perfectly cooked and tasted great. Will go again.,50,December 2014,4.0
-jollofmaster,Best Steakhouse in Lagos,"Had been looking forward to trying this place for a while now, as it's featured fro along time in the Trip Ad lagos top 20. The location, building and interior are actually very nice, the staff friendly and attentive. BUT...the menu is very limited and...More",40,October 2014,4.0
-RSH611,Great Restaurant!,"Went here for a friend's birthday, had the mini steak and a chapman was really good, steak was well done and not charred. I also kind of love the fact that Talindos is quite low-key, the outside is no indication of what the inside holds",40,July 2014,4.0
+Claudio",40,Feb-15,4,Talindo Steakhouse
+TimmoW16,Good steakhouse,Awesome Jack Daniel steak...I didn't remember to take a picture until I was done!! Wow....Had it with fries...comes with vegetables... mmm mmm mmm... Cocktails too! The lava brownie on hot plate was fantastic! ChocoGasmz😍,35,Nov-14,4,Talindo Steakhouse
+M R,Average quality for the price - and don't dare ask to swap your side!,"located in Victoria Island, can easily be missed if you have not been there before, but this gives its nice serene atmosphere.Good food and service and not crowded. A place to go with friends and family",50,Mar-15,4,Talindo Steakhouse
+Oyinkan F,Amazing Steak,If you want good quality steak in Lagos be prepared to pay. The atmosphere was slightly sterile but not bad. The steak was perfectly cooked and tasted great. Will go again.,50,Dec-14,4,Talindo Steakhouse
+jollofmaster,Best Steakhouse in Lagos,"Had been looking forward to trying this place for a while now, as it's featured fro along time in the Trip Ad lagos top 20. The location, building and interior are actually very nice, the staff friendly and attentive. BUT...the menu is very limited and...More",40,Oct-14,4,Talindo Steakhouse
+RSH611,Great Restaurant!,"Went here for a friend's birthday, had the mini steak and a chapman was really good, steak was well done and not charred. I also kind of love the fact that Talindos is quite low-key, the outside is no indication of what the inside holds",40,Jul-14,4,Talindo Steakhouse
 Bruce P,No words needed,"Nice atmosphere with excellent food.
 The Jack Daniel Steak is a particular treat.
-The service is top notch with the waiters quite knowledgeable and eager to please and recommend.",40,September 2014,4.0
+The service is top notch with the waiters quite knowledgeable and eager to please and recommend.",40,Sep-14,4,Talindo Steakhouse
 JohnL7878,Good Steak in Lagos,"One of the best restaurant in town for steaks! Nice bar in the restaurant with good choice of drinks.
-Try Steak with Jack Daniel, must try...",30,October 2013,4.0
-Hamouda-My,Great Food,Excellent food and staff. I had a lunch appointment at the restaurant but when the person who invited me cancelled I decided to try it anyway.,50,,4.0
-Matt1256,Great Steaks!,This is the place to go for a good steak. Casual Dining experience with good service. One of my recommended restaurants in Lagos.,40,May 2014,4.0
+Try Steak with Jack Daniel, must try...",30,Oct-13,4,Talindo Steakhouse
+Hamouda-My,Great Food,Excellent food and staff. I had a lunch appointment at the restaurant but when the person who invited me cancelled I decided to try it anyway.,50,,4,Talindo Steakhouse
+Matt1256,Great Steaks!,This is the place to go for a good steak. Casual Dining experience with good service. One of my recommended restaurants in Lagos.,40,May-14,4,Talindo Steakhouse
 Joan_brussels,Very nice food and good service,"I have visited the rest. Last weak and it was a great experience.. For sure will visit it again and will recommend it.
-Tried South african steak with mushroom sauce and it was very good.. The lobster soup was brilliant as well.",40,December 2013,4.0
-Touristbee2013,Wonderful !,Talindo's steaks and desserts are very good. I had the prawns while my wife had the Chateaubriand. Both excellent dishes. The Talindo's brownie is a must have as well! Overall the food and service was great.,50,November 2013,4.0
-Feigne,Great steak!,"After reading the reviews on here , I thought this is worth a try! And yep! The steak was awesome and juiceeeee! Jut what you need for the palates if you're bored with nigerian food!:) would go again definitely !!",40,August 2013,4.0
+Tried South african steak with mushroom sauce and it was very good.. The lobster soup was brilliant as well.",40,Dec-13,4,Talindo Steakhouse
+Touristbee2013,Wonderful !,Talindo's steaks and desserts are very good. I had the prawns while my wife had the Chateaubriand. Both excellent dishes. The Talindo's brownie is a must have as well! Overall the food and service was great.,50,Nov-13,4,Talindo Steakhouse
+Feigne,Great steak!,"After reading the reviews on here , I thought this is worth a try! And yep! The steak was awesome and juiceeeee! Jut what you need for the palates if you're bored with nigerian food!:) would go again definitely !!",40,Aug-13,4,Talindo Steakhouse
 tjsmart,Watch out for the hot plates!,"This restaurant loves to serve almost everything on a hot plate from main course to dessert. The good news is that it does make the food taste better :)
 
-Favs at this place are the chocolate brownie topped with ice cream and served on... you...More",45,August 2013,4.0
-KumbsO,The best dessert ever!,"Another great restaurant in Victoria Island, Lagos. Great continental dishes. But my absolute favourite dessert is the Talindo Brownie! The best! A Hot brownie topped with vanilla ice cream dripping with hot chocolate syrup! Service is good too.",45,July 2013,4.0
-Peter_Ingamells,Good Restaurant,"The Steak House has really good food, but its a little formal for my taste.  However, try the grill on the roof.  It's roofed but open-sided, giving that outdoor feel.  Food is OK but a little expensive.",40,July 2013,4.0
-Gerald G,Great Sunday Lunch,"Always looking for nice places to eat at.This little tucked away restaurant was a real treat.Staff very attentive and friendly , food was great but ythis one visit did not have the item I chose on the menu , but was replaced with another great...More",35,July 2013,4.0
-124DYR,Yummy from A to Z,"Life in Lagos is overall expensive, yet experiencing a new type of restaurant that offers you a totally unique taste is worth paying every kobo. if you really want to pamper yourself and your close friends, Talido Steak House is surely the place to visit....More",40,June 2013,4.0
-Peter551365,"Great food in Lagos, but expensive!","The steak and lobster at Talindos has been the best in town for years now, and it still is (although there is a lot more competition now!!). The only downside is the pricing.  When 3 courses and a bottle of winecome to approximately $150 per...More",30,June 2013,4.0
-babyrock246,Juicy Steaks!,So I ignored all warnings as to the expense and bought my self a 70 dollar steak! Don't get me wrong it was yummy creamy mashed potatoes etc the wine wasn't all that though. But I did enjoy my steak the mushroom sauce was divine...More,40,May 2013,4.0
+Favs at this place are the chocolate brownie topped with ice cream and served on... you...More",45,Aug-13,4,Talindo Steakhouse
+KumbsO,The best dessert ever!,"Another great restaurant in Victoria Island, Lagos. Great continental dishes. But my absolute favourite dessert is the Talindo Brownie! The best! A Hot brownie topped with vanilla ice cream dripping with hot chocolate syrup! Service is good too.",45,Jul-13,4,Talindo Steakhouse
+Peter_Ingamells,Good Restaurant,"The Steak House has really good food, but its a little formal for my taste.  However, try the grill on the roof.  It's roofed but open-sided, giving that outdoor feel.  Food is OK but a little expensive.",40,Jul-13,4,Talindo Steakhouse
+Gerald G,Great Sunday Lunch,"Always looking for nice places to eat at.This little tucked away restaurant was a real treat.Staff very attentive and friendly , food was great but ythis one visit did not have the item I chose on the menu , but was replaced with another great...More",35,Jul-13,4,Talindo Steakhouse
+124DYR,Yummy from A to Z,"Life in Lagos is overall expensive, yet experiencing a new type of restaurant that offers you a totally unique taste is worth paying every kobo. if you really want to pamper yourself and your close friends, Talido Steak House is surely the place to visit....More",40,Jun-13,4,Talindo Steakhouse
+Peter551365,"Great food in Lagos, but expensive!","The steak and lobster at Talindos has been the best in town for years now, and it still is (although there is a lot more competition now!!). The only downside is the pricing.  When 3 courses and a bottle of winecome to approximately $150 per...More",30,Jun-13,4,Talindo Steakhouse
+babyrock246,Juicy Steaks!,So I ignored all warnings as to the expense and bought my self a 70 dollar steak! Don't get me wrong it was yummy creamy mashed potatoes etc the wine wasn't all that though. But I did enjoy my steak the mushroom sauce was divine...More,40,May-13,4,Talindo Steakhouse
 Mohaned E,Blue Cheese Steak,"That's it.. Blue Cheese Steak Steak had blown me off.. it was so I cannot express..
 I guess they have two seating areas, both are just Ok.. 
 Prices !!.. get your pocket well loaded before you hit the road, it's PRICY.
 
-Have a nice time...More",40,,4.0
-Z-GIXXR600,Awesome Ambiance,"It was exactly what I needed for our first date the day after our wedding. The atmosphere was cozy with dim lighting. I had the Surf & Turf (N7500). I enjoyed the sauce with my steak and the lobster, yet the prawn was a little...More",40,March 2013,4.0
-Majestique_84,Very good food,"Very good food, especially risotto, good service. i would recommend for business dinner. A bit pricy.",50,April 2012,4.0
-ZeeGoes,"Jack Daniel's Steak, the talindo brownies, the drinks","the Jack Daniel's Steak, the talindo brownies, the drinks! I could go on! The food here is DIVINE! Great spot for a date, business dinner or something special amongst friends or family (VERY EXPENSIVE *warning*). I sometimes go to the roof  top with friends for...More",40,January 2013,4.0
-cashman83,Excellent Steakhouse,If you're staying on Victoria Island in Lagos don't pass up the opportunity to try the Talindo Steak House.  The menu offers anything from a Jack Daniels Steak presented on a fiery platter to a Blue Cheese Steak with all the fixings.  Only the finest...More,40,February 2012,4.0
-Jane N,Very expensive and we waited too long !!!!!!!!!,"The meat is good but very overpriced ! we waited really too long for a cocktail , around 30 minutes , it s though full of people working there but they seem to wait for .... ???? , the steak is very good , the...More",40,August 2012,4.0
+Have a nice time...More",40,,4,Talindo Steakhouse
+Z-GIXXR600,Awesome Ambiance,"It was exactly what I needed for our first date the day after our wedding. The atmosphere was cozy with dim lighting. I had the Surf & Turf (N7500). I enjoyed the sauce with my steak and the lobster, yet the prawn was a little...More",40,Mar-13,4,Talindo Steakhouse
+Majestique_84,Very good food,"Very good food, especially risotto, good service. i would recommend for business dinner. A bit pricy.",50,Apr-12,4,Talindo Steakhouse
+ZeeGoes,"Jack Daniel's Steak, the talindo brownies, the drinks","the Jack Daniel's Steak, the talindo brownies, the drinks! I could go on! The food here is DIVINE! Great spot for a date, business dinner or something special amongst friends or family (VERY EXPENSIVE *warning*). I sometimes go to the roof  top with friends for...More",40,Jan-13,4,Talindo Steakhouse
+cashman83,Excellent Steakhouse,If you're staying on Victoria Island in Lagos don't pass up the opportunity to try the Talindo Steak House.  The menu offers anything from a Jack Daniels Steak presented on a fiery platter to a Blue Cheese Steak with all the fixings.  Only the finest...More,40,Feb-12,4,Talindo Steakhouse
+Jane N,Very expensive and we waited too long !!!!!!!!!,"The meat is good but very overpriced ! we waited really too long for a cocktail , around 30 minutes , it s though full of people working there but they seem to wait for .... ???? , the steak is very good , the...More",40,Aug-12,4,Talindo Steakhouse
 martinhW7020NJ,Best Steak in Nigeria,"If you need a good steak while in Nigeria, the Talindos is the place to be. A favourite amongst expats and rich Nigerians, and a choice location for company events of multinationals.
 
-Imported meats and ingredients, good choice of wine and beverages and nice atmosphere....More",50,July 2011,4.0
+Imported meats and ingredients, good choice of wine and beverages and nice atmosphere....More",50,Jul-11,4,Talindo Steakhouse
