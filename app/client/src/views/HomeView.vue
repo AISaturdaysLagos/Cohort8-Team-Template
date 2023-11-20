@@ -40,7 +40,7 @@
               :modelValue="age"
               placeholder="Please enter your age"
               label="Age"
-              type="text"
+              type="number"
               name="age"
               :error="errors.age"
               :required="true"
@@ -140,11 +140,11 @@
               :required="true"
               @change="handleChange"
               :options="[
-                'Not current',
-                'Former',
-                'No info',
-                'Current',
-                'Never and ever',
+                'not current',
+                'former',
+                'no info',
+                'current',
+                'never and ever',
               ]"
             />
             <BaseInput
@@ -208,30 +208,6 @@ export default {
     StepperNavigation,
     AppDescription,
   },
-  //   return {
-  //     initialValue: {
-  //       firstName: "",
-  //     },
-  //     currentStep: 0,
-  //     maxStep: 4,
-  //     minStep: 0,
-  //   };
-  // },
-  // methods: {
-  //   submitHandler(payload) {
-  //     console.log(payload);
-  //   },
-  //   nextStep() {
-  //     if (this.currentStep < this.maxStep) {
-  //       this.currentStep++;
-  //     }
-  //   },
-  //   prevStep() {
-  //     if (this.currentStep > this.minStep) {
-  //       this.currentStep--;
-  //     }
-  //   },
-  // },
   setup() {
     const initialValue = ref({});
 
@@ -309,16 +285,20 @@ export default {
         hbA1cLevel,
         smokingHistory,
         bloodGlucoseLevel,
+        age,
+        bmi,
         ...rest
       } = values;
 
       axios
-        .post("", {
+        .post("http://localhost:5000/api/diabetic-checker", {
           ...rest,
+          age: +age,
+          bmi: +bmi,
           heart_disease: heartDisease,
-          hbA1c_level: hbA1cLevel,
+          hbA1c_level: +hbA1cLevel,
           smoking_history: smokingHistory,
-          blood_glucose_level: bloodGlucoseLevel,
+          blood_glucose_level: +bloodGlucoseLevel,
         })
         .then((response) => console.log(response))
         .catch((err) => console.log(err));
