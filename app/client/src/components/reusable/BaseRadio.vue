@@ -4,7 +4,7 @@
       horizontal: !vertical,
       vertical: vertical,
     }"
-    class="w-full h-8 mb-3 flex items-center border-2 p-6 border-secondary"
+    class="w-full h-8 mb-3 flex items-center border-2 p-6 border-secondary rounded-md"
   >
     <input
       :checked="modelValue === value"
