@@ -43,13 +43,13 @@ git clone https://github.com/AISaturdaysLagos/Cohort8-Johnson-Sirleaf.git`
 cd Cohort8-Johnson-Sirleaf
 ```
 
-4. Run the command start both the frontend and backend applications
+4. Run the command to start both the frontend and backend applications
 
 ```shell
 make start
 ```
 
-5. Run the command stop both the frontend and backend applications
+5. Run the command to stop both the frontend and backend applications
 
 ```shell
 make stop
