@@ -196,7 +196,7 @@
 import axios from "axios";
 import { useField, useForm } from "vee-validate";
 import * as yup from "yup";
-import { ref } from "vue";
+import { ref, inject } from "vue";
 import MultiFormStepper from "@/components/MultiFormStepper.vue";
 import StepperNavigation from "@/components/StepperNavigation.vue";
 import AppDescription from "@/components/AppDescription.vue";
@@ -209,6 +209,7 @@ export default {
     AppDescription,
   },
   setup() {
+    const swal = inject("$swal");
     const initialValue = ref({});
 
     const currentStep = ref(0);
@@ -244,7 +245,7 @@ export default {
       bmi: yup.number(),
     });
 
-    const { handleSubmit, errors, setFieldValue } = useForm({
+    const { handleSubmit, errors, setFieldValue, resetForm } = useForm({
       validationSchema,
       initialValues: {
         firstName: "",
@@ -300,8 +301,30 @@ export default {
           smoking_history: smokingHistory,
           blood_glucose_level: +bloodGlucoseLevel,
         })
-        .then((response) => console.log(response))
-        .catch((err) => console.log(err));
+        .then((response) => {
+          if (response.status === 200) {
+            console.log(response);
+            swal({
+              icon: "success",
+              title: response.data.message,
+              showConfirmButton: false,
+              timer: 1500,
+            });
+          }
+
+          setTimeout(() => {
+            currentStep.value = 0;
+            resetForm();
+          }, 2000);
+        })
+        .catch((err) => {
+          swal({
+            icon: "error",
+            title: err.message,
+            showConfirmButton: false,
+            timer: 1500,
+          });
+        });
     });
 
     // Return variables and methods for use in the template

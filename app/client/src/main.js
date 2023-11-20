@@ -7,6 +7,9 @@ import router from "./router";
 import store from "./store";
 import upperFirst from "lodash/upperFirst";
 
+import VueSweetalert from "vue-sweetalert2";
+import "sweetalert2/dist/sweetalert2.min.css";
+
 const requireComponent = require.context(
   "./components/reusable",
   true,
@@ -25,4 +28,4 @@ requireComponent.keys().forEach((fileName) => {
   app.component(componentName, componentConfig.default || componentConfig);
 });
 
-app.use(store).use(router).mount("#app");
+app.use(store).use(router).use(VueSweetalert).mount("#app");
