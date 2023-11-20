@@ -17,7 +17,7 @@ export default {
   },
   computed: {
     progress() {
-      return (this.currentStep / 10) * 100;
+      return (this.currentStep / 3) * 100;
     },
   },
 };

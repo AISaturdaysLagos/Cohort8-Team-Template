@@ -1,7 +1,28 @@
-import { createApp } from "vue";
-import App from "./App.vue";
-import router from "./router";
-import store from "./store";
 import "@/assets/main.css";
 
-createApp(App).use(store).use(router).mount("#app");
+import App from "./App.vue";
+import camelCase from "lodash/camelCase";
+import { createApp } from "vue";
+import router from "./router";
+import store from "./store";
+import upperFirst from "lodash/upperFirst";
+
+const requireComponent = require.context(
+  "./components/reusable",
+  true,
+  /Base[A-Z]\w+\.(vue|js)$/
+);
+
+const app = createApp(App);
+
+requireComponent.keys().forEach((fileName) => {
+  const componentConfig = requireComponent(fileName);
+
+  const componentName = upperFirst(
+    camelCase(fileName.replace(/^\.\/(.*)\.\w+$/, "$1"))
+  );
+
+  app.component(componentName, componentConfig.default || componentConfig);
+});
+
+app.use(store).use(router).mount("#app");

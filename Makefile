@@ -21,6 +21,10 @@ run:
 .PHONY:run
 
 start:
-	docker-compose up --build -d
+	cd app && docker-compose up --build -d
 .PHONY:start
+
+stop:
+	cd app && docker-compose down
+.PHONY:stop
 

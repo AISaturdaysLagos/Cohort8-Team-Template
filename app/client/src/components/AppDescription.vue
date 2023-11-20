@@ -1,6 +1,6 @@
 <template>
   <div
-    class="w-[40%] h-[40%] bg-[#7B715C] p-8 flex flex-col justify-center items-center rounded-md"
+    class="w-[40%] h-[60%] bg-[#434F66] p-8 flex flex-col justify-center items-center rounded-md"
   >
     <p class="text-white font-primary text-base font-light">
       Discover your diabetic risk level with our innovative Diabetic Risk
@@ -9,10 +9,10 @@
       questions, and let our advanced machine learning model analyze the data to
       provide you with personalized insights.
     </p>
-    <p class="text-[#101826] my-4 text-sm">
+    <p class="text-white my-4 text-sm">
       Know your risk, make informed decisions — Get started now!
     </p>
-    <p class="text-[#101826] text-xs font-normal italic">
+    <p class="text-white text-xs font-normal italic">
       FYI: This assessment checker is not a substitute for professional medical
       diagnosis, treatments or advice.
     </p>
