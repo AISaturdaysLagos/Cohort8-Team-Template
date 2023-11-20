@@ -1,5 +1,5 @@
-author_name,review_title,review_text,author_rating,visit_date,overall_rating
-Peter B,Great place to relax either inside or in the outside garden area.,"I visit this place often for a beer after work or meals. Service is always very good. Great Menu, great food ... always welcomed back as an old friend. Very quiet place not part of the maddening crowd so very seldom filled to capacity ....Music remains in the background which for Nigeria is a welcome escape.More",40,October 2019,4.0
+author_name,review_title,review_text,author_rating,visit_date,overall_rating,restaurant_name
+Peter B,Great place to relax either inside or in the outside garden area.,"I visit this place often for a beer after work or meals. Service is always very good. Great Menu, great food ... always welcomed back as an old friend. Very quiet place not part of the maddening crowd so very seldom filled to capacity ....Music remains in the background which for Nigeria is a welcome escape.More",40,Oct-19,4,Utopia
 Y6571FYandyc,Nice place. Good service but overpriced for what it is,"I went on a Saturday night at around 10 pm. I expected it to be heaving with people but I think my friend and I were the only two people there (in fairness it was an election Saturday which have materially affected the number of...customers). There was no music playing when we entered but having sat down the music started. I asked if they could turn it off and was told that they couldn't (as the only people there, their refusal begs question about their customer responsiveness),
 
 The menu is varied and covers burgers, chicken, steaks and a bunch of other foods. I selected the Sticky Chilli Beef with Jollof Rice, my friend opted for the Utopia Burgert and fries. Given that the restaurant was not busy there was a long wait for the food to arrive.
@@ -8,8 +8,8 @@ When it did arrive the Chilli beef was ok but not spectacular. It was not partic
 
 The price for a burger is more than you would pay at Johnny Rockets and not as good. The chilli beef is more than you would pay st s medium priced Chinese restaurant and not as good.
 
-There's nothing significantly bad about this place. Maybe going at a busier time would have made the atmosphere more conducive to a positive customer experience. As it was, everything was ok apart from the waitress who was very good. It just wasn't a good value for money experience.More",40,March 2019,4.0
-G5961YWdavida,Very Nice Food,Food was well made and waiters were very responsive and helpful. Enjoyed my time there. Will recommend for anyone looking for well made chicken in cheese sauce.,40,January 2019,4.0
+There's nothing significantly bad about this place. Maybe going at a busier time would have made the atmosphere more conducive to a positive customer experience. As it was, everything was ok apart from the waitress who was very good. It just wasn't a good value for money experience.More",40,Mar-19,4,Utopia
+G5961YWdavida,Very Nice Food,Food was well made and waiters were very responsive and helpful. Enjoyed my time there. Will recommend for anyone looking for well made chicken in cheese sauce.,40,Jan-19,4,Utopia
 Oyeols,Good taste and sizeable portions,"The Good:
 Decor and aesthetic of the place was pretty good. 
 
@@ -21,32 +21,32 @@ Quality of service from the staff was very good.
 
 The Not so Good:...A little pricey. This probably stems from next point. 
 
-The place is on a pretty hidden part of VI. Not on a major road like many other places. As such I figure the turnover is low and maybe this causes prices to be higher than it might be to meet fixed costs.More",35,August 2018,4.0
+The place is on a pretty hidden part of VI. Not on a major road like many other places. As such I figure the turnover is low and maybe this causes prices to be higher than it might be to meet fixed costs.More",35,Aug-18,4,Utopia
 Samir E,Bad food,"Visited with my gf, we ordered a pizza, fettuccine, and 2 starters.
 
-Starters were OK, but the pizza was the worst pizza I've ever eaten. The cheese was smelly, told them it's not edible. They got me another one but it was equally as bad....Didn't eat it, and nor did we eat the fettuccine as it was horribly cooked.More",40,April 2018,4.0
-DBVLagos2016,Great tasting food with a great atmosphere,"Tastefully decorated with very attentive staff (shout out to Vicky in particular), resident DJ (DJ Blumeflamez) spinning the decks through the night makes for a great atmosphere. Freshly cooked food whatever the time of day has saved me on more than one occasion. A visionary...owner, Walid Faddoul, has an eye for detail and with great food, a mix of Nigerian/Lebanese/International cuisine and good range of drinks and tunes - this place simply deserves more customers. Don’t take my word for it, try it soon!More",30,March 2018,4.0
-MrTee100,Yum 😋,"It was my first time, they even gave us complimentary spring rolls. I had Grilled Salmon with Mash potatoes and vegetable. It was Scrumptious 😍",50,March 2018,4.0
-Johnny A,Cosy classy place,You can call it quiet and classy in the day light and crazy dj flam at night .long bar great environment and loud music with  best barman  love the food it have special touch . Intercontinental menu,40,February 2018,4.0
-Midibabe,Business Training at Utopia Training Room.,The Food was really nice and the icing on the cake was the grilled fish! I had it for the 3 days I was there with salad,10,November 2017,4.0
-DrSam_Oti,Really liked it here.,Had dinner here on Christmas night since we didn't want to eat at our hotel. Food was awesome. Portions were very generous. Service was excellent. They have a very nice bar in addition to the restaurant area. Prices were a bit on the high side...though.  Nonetheless we would definitely be visiting here again.More,50,December 2017,4.0
-dakcee,Lovely year end hangout,"We had a departmental end of year hangout in this restaurant and it was amazing. Lovely location and a beautiful environment with ample parking space. The food was amazing and the cocktails on point,same with service. It is recommended any day.",50,December 2017,4.0
+Starters were OK, but the pizza was the worst pizza I've ever eaten. The cheese was smelly, told them it's not edible. They got me another one but it was equally as bad....Didn't eat it, and nor did we eat the fettuccine as it was horribly cooked.More",40,Apr-18,4,Utopia
+DBVLagos2016,Great tasting food with a great atmosphere,"Tastefully decorated with very attentive staff (shout out to Vicky in particular), resident DJ (DJ Blumeflamez) spinning the decks through the night makes for a great atmosphere. Freshly cooked food whatever the time of day has saved me on more than one occasion. A visionary...owner, Walid Faddoul, has an eye for detail and with great food, a mix of Nigerian/Lebanese/International cuisine and good range of drinks and tunes - this place simply deserves more customers. Don’t take my word for it, try it soon!More",30,Mar-18,4,Utopia
+MrTee100,Yum 😋,"It was my first time, they even gave us complimentary spring rolls. I had Grilled Salmon with Mash potatoes and vegetable. It was Scrumptious 😍",50,Mar-18,4,Utopia
+Johnny A,Cosy classy place,You can call it quiet and classy in the day light and crazy dj flam at night .long bar great environment and loud music with  best barman  love the food it have special touch . Intercontinental menu,40,Feb-18,4,Utopia
+Midibabe,Business Training at Utopia Training Room.,The Food was really nice and the icing on the cake was the grilled fish! I had it for the 3 days I was there with salad,10,Nov-17,4,Utopia
+DrSam_Oti,Really liked it here.,Had dinner here on Christmas night since we didn't want to eat at our hotel. Food was awesome. Portions were very generous. Service was excellent. They have a very nice bar in addition to the restaurant area. Prices were a bit on the high side...though.  Nonetheless we would definitely be visiting here again.More,50,Dec-17,4,Utopia
+dakcee,Lovely year end hangout,"We had a departmental end of year hangout in this restaurant and it was amazing. Lovely location and a beautiful environment with ample parking space. The food was amazing and the cocktails on point,same with service. It is recommended any day.",50,Dec-17,4,Utopia
 Tyralagos,Nwachinemelu's birthday,"Fun night for a friends 40th. I enjoyed the jollof rice and fried plantain.
 
 They also had a platter of different bites which was awesome.
 
-Planning to go back for a ""date night with Le boo"".",50,September 2017,4.0
-Suzy x,"Good food, good service","I've tried a number of dishes on their menu and found them to be quite good. I must say I didn't like their pasta the one time I tried it and haven't had it since then. Might have improved. The ribs are good albeit quite...expensive, their suya is good etc. The service (in particular)and the ambience are great! Nice for a group of friends or a couple.More",40,September 2017,4.0
-serenaa,The best ribs ever!,"My friend and I decided to meet at Utopia for Sunday lunch. It's tucked away in Victoria Island , clearly signposted, but only if you know where you are going. The ambience is comfy and the decor is retro. The waiting staff are knowledgeable of...the menu and pleasantly attentive. My previous attempts at sampling ribs in Nigeria have been lacklustre, but the waiter was encouraging when I enquirer about the ribs, so I decided to try...and OhmyGod!!! I'm so glad I did...it was a generous portion, moist, tender and coated in a delicious barbecue sauce...mmmmm...utterly yummy! I'll definitely be going back for more!More",40,August 2017,4.0
-retiredvaingirl,Great Virgin Mojito,"Our Mojitos were perfect,  the meal was okay. Okay service, kinda pricey but expected for the location. We would return.",40,September 2017,4.0
-Ajibola A,"Good ambience, fair service","My friend and I met here for dinner after work and we had a good time. The ambience was good, however we were not as impressed with the meals as we expected or maybe we just expected too much. I loved my cocktail though -...More",40,August 2017,4.0
-iyoboi,Nice ambiance but food could be better,Literally all I have to say. The waiters are well trained and attentive. I'd go back for drinks but that's really it.,40,May 2017,4.0
+Planning to go back for a ""date night with Le boo"".",50,Sep-17,4,Utopia
+Suzy x,"Good food, good service","I've tried a number of dishes on their menu and found them to be quite good. I must say I didn't like their pasta the one time I tried it and haven't had it since then. Might have improved. The ribs are good albeit quite...expensive, their suya is good etc. The service (in particular)and the ambience are great! Nice for a group of friends or a couple.More",40,Sep-17,4,Utopia
+serenaa,The best ribs ever!,"My friend and I decided to meet at Utopia for Sunday lunch. It's tucked away in Victoria Island , clearly signposted, but only if you know where you are going. The ambience is comfy and the decor is retro. The waiting staff are knowledgeable of...the menu and pleasantly attentive. My previous attempts at sampling ribs in Nigeria have been lacklustre, but the waiter was encouraging when I enquirer about the ribs, so I decided to try...and OhmyGod!!! I'm so glad I did...it was a generous portion, moist, tender and coated in a delicious barbecue sauce...mmmmm...utterly yummy! I'll definitely be going back for more!More",40,Aug-17,4,Utopia
+retiredvaingirl,Great Virgin Mojito,"Our Mojitos were perfect,  the meal was okay. Okay service, kinda pricey but expected for the location. We would return.",40,Sep-17,4,Utopia
+Ajibola A,"Good ambience, fair service","My friend and I met here for dinner after work and we had a good time. The ambience was good, however we were not as impressed with the meals as we expected or maybe we just expected too much. I loved my cocktail though -...More",40,Aug-17,4,Utopia
+iyoboi,Nice ambiance but food could be better,Literally all I have to say. The waiters are well trained and attentive. I'd go back for drinks but that's really it.,40,May-17,4,Utopia
 Roobel,Good Ambience. Food is good only if u choose wisely,"First of all the ambience is good. Comfortable. The sitting space is spaced out such that each group gets its own privacy, without the impression of any vacant void spaces. Excellent lighting.
-Starters were good - particularly the Utopia Platter. But the signature dish Chicken...More",40,August 2017,4.0
-TitiDokubo,Pleasant dining,"First of all, the menu is fun to look at as it is filled with fun quotes on some pages. The food is divine and the cocktail I had was something else. I am still trying to get over the flavours. Amazing experience.",35,June 2017,4.0
-Issy Melody B,Great food... friendly staff,I had the best snail in utopia lagos... friendly staff.. I recommend their strawberry cheesecake... and that the chef that guy is amazing...,30,April 2017,4.0
+Starters were good - particularly the Utopia Platter. But the signature dish Chicken...More",40,Aug-17,4,Utopia
+TitiDokubo,Pleasant dining,"First of all, the menu is fun to look at as it is filled with fun quotes on some pages. The food is divine and the cocktail I had was something else. I am still trying to get over the flavours. Amazing experience.",35,Jun-17,4,Utopia
+Issy Melody B,Great food... friendly staff,I had the best snail in utopia lagos... friendly staff.. I recommend their strawberry cheesecake... and that the chef that guy is amazing...,30,Apr-17,4,Utopia
 Sidji,Open on a Monday night,"We were looking for a nice meal out on a Monday night in Victoria Island and many places were closed. 
 
 So we were pleased to find this market place called Utopia. 
 
-The food is Lebanese, continental and continental all rolled into one. We tried the...More",30,March 2017,4.0
+The food is Lebanese, continental and continental all rolled into one. We tried the...More",30,Mar-17,4,Utopia

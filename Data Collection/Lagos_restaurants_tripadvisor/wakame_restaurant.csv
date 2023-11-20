@@ -1,9 +1,9 @@
-author_name,review_title,review_text,author_rating,visit_date,overall_rating
-Benson E,Love and cozy,"Amazing food, nice ambiance and great service. Mr Anthony is exceptional, I love his service. I must say this again, Wakame is beautiful.",50,November 2023,5.0
-Madonna D,Wakame Lagos at the Marriott,"The food at Wakame is very tasty, with a great ambience and pleasant staff members. I will definitely be coming here",45,November 2023,5.0
-Favour O,Best restaurant in Ikeja!,"A really lovely and intimate spot, the food was really good and customer service was excellent. Can honestly say it’s the best restaurant in Ikeja, Lagos. Our waiter Saviour was very professional and friendly!",50,November 2023,5.0
-Ruby K,Customer service,"Nice meal and customer service was top notch …..presentation was also on point ,I highly recommend..",45,November 2023,5.0
-Darrell L,Great experience!,"The food was fantastic.  I had the butter chicken that had an incredible flavor.  The service was excellent.  Our server Savor was very friendly, very attentive and highly recommended! I will definitely be back.",50,November 2023,5.0
+author_name,review_title,review_text,author_rating,visit_date,overall_rating,restaurant_name
+Benson E,Love and cozy,"Amazing food, nice ambiance and great service. Mr Anthony is exceptional, I love his service. I must say this again, Wakame is beautiful.",50,Nov-23,5,Wakame Restaurant
+Madonna D,Wakame Lagos at the Marriott,"The food at Wakame is very tasty, with a great ambience and pleasant staff members. I will definitely be coming here",45,Nov-23,5,Wakame Restaurant
+Favour O,Best restaurant in Ikeja!,"A really lovely and intimate spot, the food was really good and customer service was excellent. Can honestly say it’s the best restaurant in Ikeja, Lagos. Our waiter Saviour was very professional and friendly!",50,Nov-23,5,Wakame Restaurant
+Ruby K,Customer service,"Nice meal and customer service was top notch …..presentation was also on point ,I highly recommend..",45,Nov-23,5,Wakame Restaurant
+Darrell L,Great experience!,"The food was fantastic.  I had the butter chicken that had an incredible flavor.  The service was excellent.  Our server Savor was very friendly, very attentive and highly recommended! I will definitely be back.",50,Nov-23,5,Wakame Restaurant
 Maritha O,An awesome dinner experience 🥂,"Wakame restaurant at Mariott Ikeja has a beautiful and relaxing ambience and it doesn’t just stop there. The service from the waiters was top-notch as well.
 
  I and my friend were new to the Asian fusion scene and so, our waiter, Mr. Anthony (who I...highly recommend) pointed out some dishes for us to try out. We followed his advice and had a blast with the meals we ordered✨
@@ -16,79 +16,79 @@ P.s: It was my friend birthday and when we told Mr. Anthony, they sent to our ta
 
 Total bill was N50,400 (inclusive of VAT) for 2 persons and the portions were so filling, we had to pack the rest up to go.
 
- I’d rate this restaurant 5 stars and I’ll definitely be back for another visit!More",50,October 2023,5.0
-joan o,##,"The place is great. Nice ambiance, the food is okay ,the service wasn’t so great ,although Anthony did a great job serving us.The table settings with cutlery could have been better.",50,October 2023,5.0
-sylvian a,It was a nice place with good ambiance.,This is a good spot for a good night out. The ambiance is great and it’s a chill seat and eat spot for something different.,50,October 2023,5.0
-Paradise26069534682,A dinner to remember- Thanks to Chef,We enjoyed the meal. The chef did a very great job and would love to come again. It's a great place to end the day.,50,October 2023,5.0
-Obi M,Great Customer Service,A great place to relax and have a good meal. I loved the ambience and the staff was so great and friendly,50,October 2023,5.0
-ifunanya u,Great customer care,This spot is great for any type of outing. We had so much fun and the customer care was awesome. Would definitely visit wakame again,50,September 2023,5.0
-OnAir29124514645,The best Asian fusion Restaurant in Lagos,"Wakame is a tourist delight, they have a vast menu of Asian cuisine freshly prepared and very tasty. The staff are amazing.",30,September 2023,5.0
-Taofeek M,Lovely experience,It was a nice experience and I would do it again and again. Thanks for having us the food was worth it,40,September 2023,5.0
-Jungle B,No delivery service,They don’t do delivery and that is a NO for me totally and they hardly pick up their phones…………….::/,50,September 2023,5.0
-Chris C,Delicious food with excellent service,Food was excellent.  Great service!!  Will definitely return the  ext time I am in the area.  Thanks!,50,August 2023,5.0
-Favour A,How wakame stole my heart,I was there for my birthday and overall Its an amazing spot. The food is amazing and the service is 10/10(shoutout to my waiter anthony he was amazing). The ambience is to die for…overall i would recommend this place any day and i would 100%...More,50,July 2023,5.0
-Iheonu D,Birthday dinner,I had the best experience ever and they were really friendly. Of course the food tasted so niceeee. Best place to be!!!,45,August 2023,5.0
-Lamide A,I had a really great time here. The staff are extremely friendly.,This is a really great spot for lunch with friends and family. Excellent customer service and delicious food.,50,August 2023,5.0
-ToyinTB,Fabulous,The best buffet in lagos. The staff are friendly and it’s a bargain. Great choice of food to choose from.,45,July 2023,5.0
+ I’d rate this restaurant 5 stars and I’ll definitely be back for another visit!More",50,Oct-23,5,Wakame Restaurant
+joan o,##,"The place is great. Nice ambiance, the food is okay ,the service wasn’t so great ,although Anthony did a great job serving us.The table settings with cutlery could have been better.",50,Oct-23,5,Wakame Restaurant
+sylvian a,It was a nice place with good ambiance.,This is a good spot for a good night out. The ambiance is great and it’s a chill seat and eat spot for something different.,50,Oct-23,5,Wakame Restaurant
+Paradise26069534682,A dinner to remember- Thanks to Chef,We enjoyed the meal. The chef did a very great job and would love to come again. It's a great place to end the day.,50,Oct-23,5,Wakame Restaurant
+Obi M,Great Customer Service,A great place to relax and have a good meal. I loved the ambience and the staff was so great and friendly,50,Oct-23,5,Wakame Restaurant
+ifunanya u,Great customer care,This spot is great for any type of outing. We had so much fun and the customer care was awesome. Would definitely visit wakame again,50,Sep-23,5,Wakame Restaurant
+OnAir29124514645,The best Asian fusion Restaurant in Lagos,"Wakame is a tourist delight, they have a vast menu of Asian cuisine freshly prepared and very tasty. The staff are amazing.",30,Sep-23,5,Wakame Restaurant
+Taofeek M,Lovely experience,It was a nice experience and I would do it again and again. Thanks for having us the food was worth it,40,Sep-23,5,Wakame Restaurant
+Jungle B,No delivery service,They don’t do delivery and that is a NO for me totally and they hardly pick up their phones…………….::/,50,Sep-23,5,Wakame Restaurant
+Chris C,Delicious food with excellent service,Food was excellent.  Great service!!  Will definitely return the  ext time I am in the area.  Thanks!,50,Aug-23,5,Wakame Restaurant
+Favour A,How wakame stole my heart,I was there for my birthday and overall Its an amazing spot. The food is amazing and the service is 10/10(shoutout to my waiter anthony he was amazing). The ambience is to die for…overall i would recommend this place any day and i would 100%...More,50,Jul-23,5,Wakame Restaurant
+Iheonu D,Birthday dinner,I had the best experience ever and they were really friendly. Of course the food tasted so niceeee. Best place to be!!!,45,Aug-23,5,Wakame Restaurant
+Lamide A,I had a really great time here. The staff are extremely friendly.,This is a really great spot for lunch with friends and family. Excellent customer service and delicious food.,50,Aug-23,5,Wakame Restaurant
+ToyinTB,Fabulous,The best buffet in lagos. The staff are friendly and it’s a bargain. Great choice of food to choose from.,45,Jul-23,5,Wakame Restaurant
 Ishan R,"Great atmosphere, amazing food, delightful staff","Amazing food, great atmosphere and great staff. Great sushi from Chef Krishna, and amazing drinks from Tony.
 
-Was here with the entire family - had a delightful time. Look forward to coming back here soon!",50,July 2023,5.0
-Jonathan Y,Awesome dinner experience with Wakame,The food was  awesome with good service from the attendant. The food met my expectations and we are looking forward to coming again with the kids,50,July 2023,5.0
-bahdcoder,"Loved Wakame, every single time","Amazing service, reasonable prices, real Asian Experience, Great dishes. We had a great time in this beautiful ambience and lovely Asian music.",50,July 2023,5.0
-edet m,Excellent wxperience,The bar man recommended an excellent meal for us. And we did enjoy it. I was skeptical about Chinese meals but we were encouraged to try it and it was very good.,50,June 2023,5.0
-Ryan T,10 Star Dining in Lagos,"Two consecutive nights for dinner, I could have stayed a month.  Fantastic food and amazing service! Compliments to the staff and the chefs for an excellent meal.",50,June 2023,5.0
-ToyinTB,Fabulous buffet!,"Fantastic food! Excellent cocktails. The chef, Krishna was super attentive and courteous. Excellent value for money.",50,June 2023,5.0
-KATHERYN M,Love!,Superb service to be honest. Beautiful customer service. Food was totally worth it. Also got a cute cake cause it was my birthday. Can’t wait to come back again,50,May 2023,5.0
-493ezem,"Amazing birthday date night experience at Wake and I got a surprise birthday performance from the staff. Starters, mains","It was an amazing service, staff were nice and sang a birthday song to me. Food came within 10-15mins of ordering and the cocktails were amazing",50,May 2023,5.0
-Nifemi F,Good spot great friends,"This spot is great for a casual night with friends and family. Good food, good ambiance and friendly waiters",50,May 2023,5.0
-Olamide A,Wakame experience with my home girl,"The meal was delicious and we had a swell time,I was given a complimentary red velvet cake for my birthday,the waiters service was top notch.",50,May 2023,5.0
+Was here with the entire family - had a delightful time. Look forward to coming back here soon!",50,Jul-23,5,Wakame Restaurant
+Jonathan Y,Awesome dinner experience with Wakame,The food was  awesome with good service from the attendant. The food met my expectations and we are looking forward to coming again with the kids,50,Jul-23,5,Wakame Restaurant
+bahdcoder,"Loved Wakame, every single time","Amazing service, reasonable prices, real Asian Experience, Great dishes. We had a great time in this beautiful ambience and lovely Asian music.",50,Jul-23,5,Wakame Restaurant
+edet m,Excellent wxperience,The bar man recommended an excellent meal for us. And we did enjoy it. I was skeptical about Chinese meals but we were encouraged to try it and it was very good.,50,Jun-23,5,Wakame Restaurant
+Ryan T,10 Star Dining in Lagos,"Two consecutive nights for dinner, I could have stayed a month.  Fantastic food and amazing service! Compliments to the staff and the chefs for an excellent meal.",50,Jun-23,5,Wakame Restaurant
+ToyinTB,Fabulous buffet!,"Fantastic food! Excellent cocktails. The chef, Krishna was super attentive and courteous. Excellent value for money.",50,Jun-23,5,Wakame Restaurant
+KATHERYN M,Love!,Superb service to be honest. Beautiful customer service. Food was totally worth it. Also got a cute cake cause it was my birthday. Can’t wait to come back again,50,May-23,5,Wakame Restaurant
+493ezem,"Amazing birthday date night experience at Wake and I got a surprise birthday performance from the staff. Starters, mains","It was an amazing service, staff were nice and sang a birthday song to me. Food came within 10-15mins of ordering and the cocktails were amazing",50,May-23,5,Wakame Restaurant
+Nifemi F,Good spot great friends,"This spot is great for a casual night with friends and family. Good food, good ambiance and friendly waiters",50,May-23,5,Wakame Restaurant
+Olamide A,Wakame experience with my home girl,"The meal was delicious and we had a swell time,I was given a complimentary red velvet cake for my birthday,the waiters service was top notch.",50,May-23,5,Wakame Restaurant
 Nicole E,I had a great time,"Food was so good, customers service was good too, Beautiful Ambiance.. Totally love it!
-Would Definitely Dine again.",50,May 2023,5.0
-Marija P,Best Panasian Restaurant in Lagos,"Lagos is lucky to have Wakame. Since there is no such restaurant in Abuja, we love to come here every time we’re in Lagos. Great food, whatever you order - it’s a hit.",50,May 2023,5.0
-Agabi O,Great experience… looking forward to more,"Spectacular!!! Great . The food i had was well prepared. Staff and delivery was top notch. Great service, Great atmosphere, lovely scenery and certainly a place to visit anytime",45,May 2023,5.0
-Dolapo A,5 star service ⭐️,"A beautiful spot for a date night and dinner hang out. Good meal with great tastes, fast responses and excellent service from the waiters.",50,May 2023,5.0
-Discover51099695332,Great ambience,"Great ambience, polite and friendly staff. Good food and drinks. Great experience overall! 10/10! 👍🏽",45,May 2023,5.0
-Olabisi A,10/10,"Very nice ambience , excellent staff , and value I got the value for my money, well done ❤️
-The food was very tasty too.",50,May 2023,5.0
+Would Definitely Dine again.",50,May-23,5,Wakame Restaurant
+Marija P,Best Panasian Restaurant in Lagos,"Lagos is lucky to have Wakame. Since there is no such restaurant in Abuja, we love to come here every time we’re in Lagos. Great food, whatever you order - it’s a hit.",50,May-23,5,Wakame Restaurant
+Agabi O,Great experience… looking forward to more,"Spectacular!!! Great . The food i had was well prepared. Staff and delivery was top notch. Great service, Great atmosphere, lovely scenery and certainly a place to visit anytime",45,May-23,5,Wakame Restaurant
+Dolapo A,5 star service ⭐️,"A beautiful spot for a date night and dinner hang out. Good meal with great tastes, fast responses and excellent service from the waiters.",50,May-23,5,Wakame Restaurant
+Discover51099695332,Great ambience,"Great ambience, polite and friendly staff. Good food and drinks. Great experience overall! 10/10! 👍🏽",45,May-23,5,Wakame Restaurant
+Olabisi A,10-Oct,"Very nice ambience , excellent staff , and value I got the value for my money, well done ❤️
+The food was very tasty too.",50,May-23,5,Wakame Restaurant
 Venture53708243215,Calm,"Very cozy with great ambience 
 Could get crowded in the evening 
 Lovely food though I wasn’t particularly excited about the Bayanni(can’t remember actual name)
-Nice place in general",50,May 2023,5.0
-Krishna T,best restaurant,"wakame restaurant is quite different from other restaurants i have been, service excellent the waiter was able to take use through what they offer  i enjoyed the buffet brunch, the service was just like a gueridon service i like it",50,May 2023,5.0
-John F,Best dinning experience,"I Typically don't like prawns, I had a taste of the prawns kebabs and it was wonderful 😋. I absolutely love it",40,May 2023,5.0
+Nice place in general",50,May-23,5,Wakame Restaurant
+Krishna T,best restaurant,"wakame restaurant is quite different from other restaurants i have been, service excellent the waiter was able to take use through what they offer  i enjoyed the buffet brunch, the service was just like a gueridon service i like it",50,May-23,5,Wakame Restaurant
+John F,Best dinning experience,"I Typically don't like prawns, I had a taste of the prawns kebabs and it was wonderful 😋. I absolutely love it",40,May-23,5,Wakame Restaurant
 Emike S,I enjoyed everything from the food to the service! I will surely be returning,"The customer service is amazing and the food is great!
-I also enjoyed my drinks! It is a great place to relax",50,May 2023,5.0
-Regina A,Amazing cocktail,I ordered a mocktail and the Bar man did an amazing job with it. Refreshing and nice! This drink was not on the menu and I just told him I wanted something nice. The manager also helped and made sure we had a great time.,50,April 2023,5.0
-Orji V,Service,Nice service waiter was friendly an so did recomend nice food that i enjoyed will recomend the wakame restaurant to my friends,40,April 2023,5.0
-Vacation01145748766,Great place for a date,"The ambience was great , my girl and I had a great time l, the waiter was really nice , I had the chicken ramen , the meal was really tasty, the ramen was a bit too soft though. My experience was a great one...More",50,April 2023,5.0
-adebolao191,Beautiful restaurants to visit in Lagos,"Beautiful restaurant with a very nice ambience, the customer service is a 💯. Enjoyed every bit of the food. Highly recommend. Loved everything about this place",50,April 2023,5.0
+I also enjoyed my drinks! It is a great place to relax",50,May-23,5,Wakame Restaurant
+Regina A,Amazing cocktail,I ordered a mocktail and the Bar man did an amazing job with it. Refreshing and nice! This drink was not on the menu and I just told him I wanted something nice. The manager also helped and made sure we had a great time.,50,Apr-23,5,Wakame Restaurant
+Orji V,Service,Nice service waiter was friendly an so did recomend nice food that i enjoyed will recomend the wakame restaurant to my friends,40,Apr-23,5,Wakame Restaurant
+Vacation01145748766,Great place for a date,"The ambience was great , my girl and I had a great time l, the waiter was really nice , I had the chicken ramen , the meal was really tasty, the ramen was a bit too soft though. My experience was a great one...More",50,Apr-23,5,Wakame Restaurant
+adebolao191,Beautiful restaurants to visit in Lagos,"Beautiful restaurant with a very nice ambience, the customer service is a 💯. Enjoyed every bit of the food. Highly recommend. Loved everything about this place",50,Apr-23,5,Wakame Restaurant
 jesuloluwa d,"The customer service was beautiful, the food was amazing , the ambience was so nice","This is such a beautiful place, it’s very chill and has a very beautiful ambience.
-The waiters are very nice and kindly recommended to what to eat to us 🫶🏽",50,April 2023,5.0
+The waiters are very nice and kindly recommended to what to eat to us 🫶🏽",50,Apr-23,5,Wakame Restaurant
 Vanessa C,Great service,"Great food, great customer service 
 I had the special fried rice and nasigoreng rice and it tasted so nice. The meat was not  well seasoned but besides that, great meal, great service.
-Thank you",50,April 2023,5.0
-David A,The Asian Culinary Journey in Lagos Worth Trying,"Actually we were kinda late when we got there due to some crazy traffic that held us captive for 2 hours. Upon arriving at Wakame Restaurant, Chiamaka, the receptionist, welcomed us with a warm smile. She explained that we were very late and might be...More",50,March 2023,5.0
+Thank you",50,Apr-23,5,Wakame Restaurant
+David A,The Asian Culinary Journey in Lagos Worth Trying,"Actually we were kinda late when we got there due to some crazy traffic that held us captive for 2 hours. Upon arriving at Wakame Restaurant, Chiamaka, the receptionist, welcomed us with a warm smile. She explained that we were very late and might be...More",50,Mar-23,5,Wakame Restaurant
 bisoyeo2020,Sunday Brunch Buffet,"The food was so great with a lot of exquisite options, the dessert was so GOOD. 
-The buffet was worth every penny",45,December 2022,5.0
-Foodieku,Dinner at wakame,"My server was mr obi and he was wonderful, very patient and kind I highly recommend him! The food was also spectacular",50,December 2022,5.0
+The buffet was worth every penny",45,Dec-22,5,Wakame Restaurant
+Foodieku,Dinner at wakame,"My server was mr obi and he was wonderful, very patient and kind I highly recommend him! The food was also spectacular",50,Dec-22,5,Wakame Restaurant
 170midef,Regional Cordinator,"Highly qualified  and satisfactory services 
 There is excellent security outfit with overwhelming welcome 
-There hospitality is second to none .",45,September 2022,5.0
-olukemio2020,Mrs Olusanya,"Good ambience, Nice Yummy Food, Attentive staff. Hot&Sizzling  ......... Great Chef with good experience",50,August 2022,5.0
-Foodlover228,Very Nice Environment Restaurant in Ikeja,The food is Okay. Indian dishes are very good. Dim Sum and Thai food is fair. But The Beef is below my expectation. Environment and services is very good. Can try again.,50,March 2022,5.0
+There hospitality is second to none .",45,Sep-22,5,Wakame Restaurant
+olukemio2020,Mrs Olusanya,"Good ambience, Nice Yummy Food, Attentive staff. Hot&Sizzling  ......... Great Chef with good experience",50,Aug-22,5,Wakame Restaurant
+Foodlover228,Very Nice Environment Restaurant in Ikeja,The food is Okay. Indian dishes are very good. Dim Sum and Thai food is fair. But The Beef is below my expectation. Environment and services is very good. Can try again.,50,Mar-22,5,Wakame Restaurant
 TheeGod,The best restaurant in Lagos,"Wakame honors Asian food, offering the best dishes in the region. Combined with excellent & courteous service, a refined & luxurious ambiance, the experience is worth every dime.
 
 Every dish I have tried is lavish, flavorful, and tastefully made.
 
- Wakame is excellent for any dining;...More",50,March 2022,5.0
-Bolutife,Top Quality Experience,The service provided is top notch. The food is great and the cocktails are marvellous. I highly recommend the Tony Special cocktail.,50,April 2022,5.0
+ Wakame is excellent for any dining;...More",50,Mar-22,5,Wakame Restaurant
+Bolutife,Top Quality Experience,The service provided is top notch. The food is great and the cocktails are marvellous. I highly recommend the Tony Special cocktail.,50,Apr-22,5,Wakame Restaurant
 alexu651,Best Restaurant Experience in Lagos,"The best of all Restaurant experience I have had. 
 
-Great ambience. Great food. Great personnel. Best wines!",50,January 2022,5.0
+Great ambience. Great food. Great personnel. Best wines!",50,Jan-22,5,Wakame Restaurant
 TobijahK,great experience,"you will love the chill vibe, the openly architectured kitchen, the very friendly service and the very good and authentic food. 5 stars. 
 
-greetings from tobilova to rita and vincent :)",50,March 2022,5.0
-oluwatoyino847,Wakame Restaurant - A delight,"Delicious food, great ambience and wonderful customer service. Ubi (the waiter) did a fantastic job. I'll definitely be back.",40,March 2022,5.0
+greetings from tobilova to rita and vincent :)",50,Mar-22,5,Wakame Restaurant
+oluwatoyino847,Wakame Restaurant - A delight,"Delicious food, great ambience and wonderful customer service. Ubi (the waiter) did a fantastic job. I'll definitely be back.",40,Mar-22,5,Wakame Restaurant
 billsyb,It's Open at Last,"Wakame is the Asian/Indian themed main a la carte restaurant in the impressive new Marriot Hotel Ikeja. I've been waiting for it too open it's doors since the hotel opened its doors a few months back.
 
-It certainly is an impressive space with an open...More",50,February 2022,5.0
+It certainly is an impressive space with an open...More",50,Feb-22,5,Wakame Restaurant
