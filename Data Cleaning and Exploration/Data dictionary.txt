@@ -1,0 +1,13 @@
+author_name - The author's name and surname abbreviated or username.
+
+review_title - A short text summing up the author's experience.
+
+review_text - Details of the author's experience.
+
+author_rating - 5-star system to rate the author's experience.
+
+visit_date - The date the author had the experience.
+
+overall_rating - The average restaurant rating.
+
+restaurant_name - The name of the establishment.
