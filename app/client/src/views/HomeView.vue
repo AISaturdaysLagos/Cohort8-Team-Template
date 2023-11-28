@@ -300,7 +300,7 @@ export default {
           age: +age,
           bmi: +bmi,
           heart_disease: heartDisease,
-          hbA1c_level: +hbA1cLevel,
+          HbA1c_level: +hbA1cLevel,
           smoking_history: smokingHistory,
           blood_glucose_level: +bloodGlucoseLevel,
         })

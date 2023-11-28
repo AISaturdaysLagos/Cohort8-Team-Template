@@ -1,4 +1,5 @@
 import pickle
+import os
 import numpy as np
 
 def load_model(model_path):
@@ -29,7 +30,8 @@ def predict_health_status(gender, age, hypertension, heart_disease, smoking_hist
     Returns:
     int: The predicted health status (specific encoding of the output needs to be defined).
     """
-    model_path = 'app/server/models/random_forest_model.pkl'
+    print(os.getcwd(), '############')
+    model_path = '/flask-deploy/models/random_forest_model.pkl'
     model = load_model(model_path)
 
     input_features = [gender, age, hypertension, heart_disease, smoking_history, bmi, HbA1c_level, blood_glucose_level]
