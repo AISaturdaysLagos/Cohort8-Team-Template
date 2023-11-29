@@ -7,9 +7,7 @@ def load_model(model_path):
     return model
 
 def make_prediction(model, input_features):
-    print("#########")
     input_features = np.array(input_features).reshape(1, -1)
-    print(input_features)
     prediction = model.predict(input_features)
     return prediction[0]
 
@@ -31,10 +29,8 @@ def predict_health_status(gender, age, hypertension, heart_disease, smoking_hist
     Returns:
     int: The predicted health status (specific encoding of the output needs to be defined).
     """
-    print('got here, @@@@@@', gender, age, hypertension, heart_disease, smoking_history, bmi, HbA1c_level, blood_glucose_level)
     model_path = './models/random_forest_model.pkl'
     model = load_model(model_path)
-    print('model loaded, @@@@@@', model)
 
     input_features = [gender, age, hypertension, heart_disease, smoking_history, bmi, HbA1c_level, blood_glucose_level]
     prediction = make_prediction(model, input_features)
