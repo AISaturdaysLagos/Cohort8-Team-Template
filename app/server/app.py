@@ -24,14 +24,14 @@ CORS(app, resources={r"/api/*": {"origins": CORS_ALLOWED_ORIGINS, "exposed_heade
 request_schema = {
     "firstName": {"type": "string", "required": True},
     "lastName": {"type": "string", "required": True},
-    "gender": {"type": "string", "allowed": ["male", "female"], "required": True},
+    "gender": {"type": "string", "allowed": ["Male", "Female"], "required": True},
     "age": {"type": "integer", "required": True},
     "email": {"type": "string", "required": True, "regex": r'\S+@\S+\.\S+'},  # Basic email regex
     "hypertension": {"type": "integer", "allowed": [0, 1], "required": True},
     "heart_disease": {"type": "integer", "allowed": [0, 1], "required": True},
     "diabetes": {"type": "integer", "allowed": [0, 1], "required": True},
     "HbA1c_level": {"type": "number", "required": True},
-    "smoking_history": {"type": "string", "allowed": ["not current", "former", "no info", "current", "never and ever"], "required": True},
+    "smoking_history": {"type": "string", "allowed": ["not current", "former", "No Info", "current", "never", "ever"], "required": True},
     "blood_glucose_level": {"type": "number", "required": True},
     "bmi": {"type": "number", "required": True},
 }
@@ -46,16 +46,22 @@ def hello():
 @app.route('/api/diabetic-checker', methods=['POST'])
 def validate_and_print():
     data = request.get_json()
+    print(data)
     if validator.validate(data, request_schema):
         print("Received valid request data:")
-        prediction = predict_health_status(data.gender, data.age, data.hypertension, data.heart_disease, data.smoking_history, data.bmi, data.HbA1c_level, data.blood_glucose_level)
         
+        if (data['gender'] == 'male'):
+            data['gender'] = 1
+        else:
+            data['gender'] = 0
+        prediction = predict_health_status(data['gender'].capitalize(), data['age'], data['hypertension'], data['heart_disease'], data['smoking_history'], data['bmi'], data['HbA1c_level'], data['blood_glucose_level'])
+        print(prediction, '####')
         if prediction:
             message = "You are at risk of having diabetes."
         else:
             message = "You are not at risk of having diabetes."
         
-        return jsonify({"message": message}), 200
+        return jsonify({"message": message, "data": prediction}), 200
     else:
         return jsonify({"error": "Validation error", "details": validator.errors}), 400
 

@@ -1,4 +1,4 @@
-FROM python:3.10
+FROM python:3.11
 
 # Create a virtual environment and activate it
 RUN python -m venv /venv
