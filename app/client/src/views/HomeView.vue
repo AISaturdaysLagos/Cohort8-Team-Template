@@ -292,6 +292,7 @@ export default {
         bloodGlucoseLevel,
         age,
         bmi,
+        diabetes,
         ...rest
       } = values;
 
@@ -304,6 +305,7 @@ export default {
           HbA1c_level: +hbA1cLevel,
           smoking_history: smokingHistory,
           blood_glucose_level: +bloodGlucoseLevel,
+          diabetes: +diabetes,
         })
         .then((response) => {
           if (response.status === 200) {
@@ -312,7 +314,7 @@ export default {
               icon: "success",
               title: response.data.message,
               showConfirmButton: false,
-              timer: 1500,
+              timer: 8500,
             });
           }
 

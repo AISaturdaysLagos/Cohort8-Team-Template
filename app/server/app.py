@@ -38,6 +38,28 @@ request_schema = {
 
 validator = Validator()
 
+def process_input_data(input_data):
+    # Create a copy of the input dictionary to avoid modifying the original
+    processed_data = input_data.copy()
+
+    # Remove unnecessary keys
+    keys_to_remove = ["firstName", "lastName", "email"]
+    for key in keys_to_remove:
+        processed_data.pop(key, None)
+
+    # Convert gender to 1 or 0
+    gender = processed_data.get("gender", "unknown")
+    gender_value = 1 if gender == "Male" else 0
+    processed_data["gender"] = gender_value
+
+    # Convert smoking_history to the index
+    smoking_history_values = ["not current", "former", "No Info", "current", "never", "ever"]
+    smoking_history = processed_data.get("smoking_history", "No Info")
+    smoking_history_index = smoking_history_values.index(smoking_history)
+    processed_data["smoking_history"] = smoking_history_index
+
+    return processed_data
+
 
 @app.route("/")
 def hello():
@@ -46,22 +68,18 @@ def hello():
 @app.route('/api/diabetic-checker', methods=['POST'])
 def validate_and_print():
     data = request.get_json()
-    print(data)
     if validator.validate(data, request_schema):
         print("Received valid request data:")
-        
-        if (data['gender'] == 'male'):
-            data['gender'] = 1
-        else:
-            data['gender'] = 0
-        prediction = predict_health_status(data['gender'].capitalize(), data['age'], data['hypertension'], data['heart_disease'], data['smoking_history'], data['bmi'], data['HbA1c_level'], data['blood_glucose_level'])
+        processed_data = process_input_data(data)
+        print(processed_data)
+        prediction = predict_health_status(processed_data['gender'], processed_data['age'], processed_data['hypertension'], processed_data['heart_disease'], processed_data['smoking_history'], processed_data['bmi'], processed_data['HbA1c_level'], processed_data['blood_glucose_level'])
         print(prediction, '####')
         if prediction:
             message = "You are at risk of having diabetes."
         else:
             message = "You are not at risk of having diabetes."
         
-        return jsonify({"message": message, "data": prediction}), 200
+        return jsonify({"message": message }), 200
     else:
         return jsonify({"error": "Validation error", "details": validator.errors}), 400
 
