@@ -1,3 +1,6 @@
 .history/
 .env
 venv/
+.DS_Store
+vscode_getting_started_page.inetloc
+__pycache__/

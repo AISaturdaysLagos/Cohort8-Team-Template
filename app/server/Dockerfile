@@ -1,4 +1,4 @@
-FROM python:3.10
+FROM python:3.11
 
 # Create a virtual environment and activate it
 RUN python -m venv /venv
@@ -20,4 +20,4 @@ RUN pip install gunicorn[gevent]
 EXPOSE 5000
 
 # Start the application with Gunicorn
-CMD ["gunicorn", "--worker-class", "gevent", "--workers", "8", "--bind", "0.0.0.0:5000", "wsgi:app", "--max-requests", "10000", "--timeout", "5", "--keep-alive", "5", "--log-level", "info"]
+CMD ["gunicorn", "--worker-class", "gevent", "--workers", "8", "--bind", "0.0.0.0:5000", "wsgi:app", "--max-requests", "10000", "--timeout", "5", "--keep-alive", "5", "--log-level", "debug"]

@@ -54,7 +54,7 @@
               :error="errors.gender"
               :required="true"
               @change="handleChange"
-              :options="['male', 'female']"
+              :options="['Male', 'Female']"
             />
           </div>
           <div class="mb-4 grid grid-cols-1 w-full">
@@ -145,9 +145,10 @@
               :options="[
                 'not current',
                 'former',
-                'no info',
+                'No Info',
                 'current',
-                'never and ever',
+                'never',
+                'ever',
               ]"
             />
             <BaseInput
@@ -191,7 +192,7 @@
         :currentStep="currentStep"
       />
     </form>
-    <!-- <pre class="text-white">{{ errors }}</pre> -->
+    <pre class="text-white">{{ errors }}</pre>
   </div>
 </template>
 
@@ -239,7 +240,7 @@ export default {
     const validationSchema = yup.object({
       firstName: yup.string().required().min(3).max(100),
       lastName: yup.string().required().min(3).max(100),
-      gender: yup.string().oneOf(["male", "female", "others"]).ensure(),
+      gender: yup.string().oneOf(["Male", "Female", "Others"]).ensure(),
       age: yup.number().required(),
       email: yup.string().email().required(),
       hbA1cLevel: yup.number(),
@@ -291,6 +292,7 @@ export default {
         bloodGlucoseLevel,
         age,
         bmi,
+        diabetes,
         ...rest
       } = values;
 
@@ -299,10 +301,11 @@ export default {
           ...rest,
           age: +age,
           bmi: +bmi,
-          heart_disease: heartDisease,
-          hbA1c_level: +hbA1cLevel,
+          heart_disease: +heartDisease,
+          HbA1c_level: +hbA1cLevel,
           smoking_history: smokingHistory,
           blood_glucose_level: +bloodGlucoseLevel,
+          diabetes: +diabetes,
         })
         .then((response) => {
           if (response.status === 200) {
@@ -311,7 +314,7 @@ export default {
               icon: "success",
               title: response.data.message,
               showConfirmButton: false,
-              timer: 1500,
+              timer: 8500,
             });
           }
 
