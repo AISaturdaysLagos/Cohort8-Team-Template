@@ -4,8 +4,10 @@
       <button
         class="bg-secondary mr-4 py-2 px-8 rounded-full text-white text-sm font-light cursor-pointer font-primary"
         @click="prev"
-        v-show="back()"
+        v-if="back"
         type="button"
+        :disabled="loading"
+        :class="{ disable: loading }"
       >
         Back
       </button>
@@ -13,45 +15,73 @@
         class="bg-secondary mr-4 py-2 px-8 rounded-full text-white text-sm font-light cursor-pointer font-primary"
         @click="next"
         :type="currentStep === 3 ? 'submit' : 'button'"
+        :disabled="loading"
+        :class="{ disable: loading }"
       >
-        {{ action }}
+        <template v-if="!loading">
+          {{ action }}
+        </template>
+        <template v-else>
+          <pause-loader :loading="loading" size="20px" color="#fff" />
+        </template>
       </button>
     </div>
   </div>
 </template>
 
 <script>
+import { computed } from "vue";
+import PauseLoader from "@/components/PauseLoader.vue";
+
 export default {
   name: "StepperNavigation",
+  components: {
+    PauseLoader,
+  },
   props: {
     currentStep: {
       type: Number,
       default: 0,
     },
-  },
-  methods: {
-    next() {
-      this.$emit("next");
-    },
-    prev() {
-      this.$emit("prev");
-    },
-    back() {
-      return this.currentStep > 0;
+    loading: {
+      type: Boolean,
+      default: false,
     },
   },
-  computed: {
-    action() {
-      if (this.currentStep === 0) {
+  setup(props, { emit }) {
+    const back = computed(() => props.currentStep > 0);
+
+    const next = () => {
+      emit("next");
+    };
+
+    const prev = () => {
+      emit("prev");
+    };
+
+    const action = computed(() => {
+      if (props.currentStep === 0) {
         return "Start";
-      } else if (this.currentStep === 3) {
+      } else if (props.currentStep === 3) {
         return "Submit";
       } else {
         return "Next";
       }
-    },
+    });
+
+    return {
+      back,
+      next,
+      prev,
+      action,
+    };
   },
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+.disable {
+  background-color: #eee;
+  cursor: not-allowed;
+}
+</style>
