@@ -23,7 +23,7 @@
           {{ action }}
         </template>
         <template v-else>
-          <pause-loader :loading="loading" size="20px" color="#fff" />
+          <pause-loader :loading="loading" size="20px" color="#555" />
         </template>
       </button>
     </div>
@@ -84,6 +84,6 @@ export default {
 .disable {
   background-color: #eee;
   cursor: not-allowed;
-  color: #b7b7b7;
+  color: #aaaaaa;
 }
 </style>
