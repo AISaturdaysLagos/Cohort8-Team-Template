@@ -297,16 +297,19 @@ export default {
       } = values;
 
       axios
-        .post("http://localhost:5000/api/diabetic-checker", {
-          ...rest,
-          age: +age,
-          bmi: +bmi,
-          heart_disease: +heartDisease,
-          HbA1c_level: +hbA1cLevel,
-          smoking_history: smokingHistory,
-          blood_glucose_level: +bloodGlucoseLevel,
-          diabetes: +diabetes,
-        })
+        .post(
+          "https://diabetic-risk-assessment.onrender.com/api/diabetic-checker",
+          {
+            ...rest,
+            age: +age,
+            bmi: +bmi,
+            heart_disease: +heartDisease,
+            HbA1c_level: +hbA1cLevel,
+            smoking_history: smokingHistory,
+            blood_glucose_level: +bloodGlucoseLevel,
+            diabetes: +diabetes,
+          }
+        )
         .then((response) => {
           if (response.status === 200) {
             console.log(response);
