@@ -1,8 +1,3 @@
-[build]
-  # Build and deploy the Vue.js app
-  command = "cd app/client && yarn installl && yarn run build"
-  publish = "client/dist"
-
 [[redirects]]
   from = "/*"
   to = "/index.html"
