@@ -1,12 +1,12 @@
 <template>
-  <div class="bg-primary h-[97vh] w-full relative">
+  <div class="bg-primary h-[97vh] w-full relative overflow-y-auto mb-4">
     <MultiFormStepper :currentStep="currentStep" />
     <form
       @submit="submit"
-      class="w-full min-h-full h-auto flex justify-center items-center"
+      class="w-full h-full flex justify-center items-center"
     >
       <transition name="fade">
-        <AppDescription v-if="currentStep === 0" />
+        <AppDescription v-if="currentStep === 0" @next="nextStep" />
       </transition>
       <transition name="fade">
         <div
