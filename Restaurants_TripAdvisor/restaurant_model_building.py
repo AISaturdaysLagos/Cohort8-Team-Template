@@ -21,13 +21,14 @@ import pandas as pd
 import pickle
 import re
 import math
-from pathlib import Path
 
 nltk.download('stopwords')
 nltk.download('punkt')
 
-csv_file = Path(__file__).parents[0]/'clean_lagos_restaurants.csv'
-restaurants_init = pd.read_csv(csv_file)
+dir_name = os.path.abspath(os.path.dirname(__file__))
+location = os.path.join(dir_name, 'clean_lagos_restaurants.csv')
+
+restaurants_init = pd.read_csv(location)
 
 # removing manager feedback
 feedback_string = 'Thank you for'
