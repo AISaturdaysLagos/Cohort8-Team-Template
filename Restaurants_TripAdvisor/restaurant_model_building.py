@@ -77,7 +77,7 @@ restaurants_init['review_text'] = restaurants_init['review_text'].apply(lambda x
 restaurants_init['review_title'] = restaurants_init['review_title'].apply(lambda x: " ".join(x for x in x.split() if x not in stop_words))
 
 # removing punctuation
-punctuation_and_symbols = "[^\w\s]"
+punctuation_and_symbols = "\[^\w\s\]"
 for _ in range(len(punctuation_and_symbols)):
   restaurants_init['review_text'] = restaurants_init['review_text'].str.replace(punctuation_and_symbols[_], ' ', regex=True)
   restaurants_init['review_title'] = restaurants_init['review_title'].str.replace(punctuation_and_symbols[_], ' ', regex=True)
