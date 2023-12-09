@@ -25,7 +25,7 @@ import math
 nltk.download('stopwords')
 nltk.download('punkt')
 
-restaurants_init = pd.read_csv('C:/Cohort8-Kapwepwe/Restaurants_TripAdvisor/Data Cleaning and Exploration/clean_lagos_restaurants.csv')
+restaurants_init = pd.read_csv('Data Cleaning and Exploration\clean_lagos_restaurants.csv')
 
 # removing manager feedback
 feedback_string = 'Thank you for'
