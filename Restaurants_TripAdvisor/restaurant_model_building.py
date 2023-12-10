@@ -16,7 +16,6 @@ import nltk
 import os
 import string
 import numpy as np
-import copy
 import pandas as pd
 import pickle
 import re
@@ -72,6 +71,7 @@ restaurants_init['review_text'] = restaurants_init['review_text'].str.replace(" 
 restaurants_init['review_title'] = restaurants_init['review_title'].str.replace("  ", " ")
 
 # lemmatizing
+import corpora
 from textblob import Word
 
 restaurants_init['review_text'] = restaurants_init['review_text'].apply(lambda x: " ".join([Word(word).lemmatize() for word in x.split()]))
