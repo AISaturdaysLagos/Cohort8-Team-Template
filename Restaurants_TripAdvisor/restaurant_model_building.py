@@ -56,19 +56,6 @@ def convert_emojis(text):
 restaurants_init['review_text'] = restaurants_init['review_text'].apply(convert_emojis)
 restaurants_init['review_title'] = restaurants_init['review_title'].apply(convert_emojis)
 
-
-# translating to english only
-from langdetect import detect
-from deep_translator import GoogleTranslator
-
-for rec in restaurants_init['review_text']:
-  result_lang = detect(rec)
-  if result_lang == 'en':
-    rec = rec
-  else:
-    rec = GoogleTranslator(target='en').translate(str(rec))
-    # rec = translator.translate(rec, lang_src=result_lang, lang_tgt='en')
-
 # removing stopwords in the review text
 stop_words = stopwords.words('english')
 restaurants_init['review_text'] = restaurants_init['review_text'].apply(lambda x: " ".join(x for x in x.split() if x not in stop_words))
