@@ -65,11 +65,11 @@ restaurants_init['review_title'] = restaurants_init['review_title'].apply(lambda
 
 # removing punctuation
 punctuation_and_symbols = r'\[^\w\s\]'
-for _ in range(len(punctuation_and_symbols)):
-  restaurants_init['review_text'] = restaurants_init['review_text'].str.replace(punctuation_and_symbols[_], ' ', regex=True)
-  restaurants_init['review_title'] = restaurants_init['review_title'].str.replace(punctuation_and_symbols[_], ' ', regex=True)
-  restaurants_init['review_text'] = restaurants_init['review_text'].str.replace("  ", " ")
-  restaurants_init['review_title'] = restaurants_init['review_title'].str.replace("  ", " ")
+
+restaurants_init['review_text'] = restaurants_init['review_text'].str.replace(punctuation_and_symbols[_], ' ', regex=True)
+restaurants_init['review_title'] = restaurants_init['review_title'].str.replace(punctuation_and_symbols[_], ' ', regex=True)
+restaurants_init['review_text'] = restaurants_init['review_text'].str.replace("  ", " ")
+restaurants_init['review_title'] = restaurants_init['review_title'].str.replace("  ", " ")
 
 # lemmatizing
 from textblob import Word
