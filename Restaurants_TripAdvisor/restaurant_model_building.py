@@ -72,6 +72,7 @@ restaurants_init['review_text'] = restaurants_init['review_text'].str.replace(" 
 restaurants_init['review_title'] = restaurants_init['review_title'].str.replace("  ", " ")
 
 # lemmatizing
+textblob.download_corpora
 from textblob import Word
 
 restaurants_init['review_text'] = restaurants_init['review_text'].apply(lambda x: " ".join([Word(word).lemmatize() for word in x.split()]))
