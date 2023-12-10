@@ -21,6 +21,7 @@ import pickle
 import re
 import math
 
+nltk.download('wordnet')
 nltk.download('stopwords')
 nltk.download('punkt')
 
