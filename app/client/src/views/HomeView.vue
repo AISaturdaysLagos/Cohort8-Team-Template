@@ -159,7 +159,7 @@
               :modelValue="bmi"
               placeholder="Please enter your BMI information"
               label="BMI"
-              type="number"
+              type="text"
               name="bmi"
               :error="errors.bmi"
               :required="true"
@@ -173,7 +173,7 @@
               :modelValue="hbA1cLevel"
               placeholder="What's your Hemoglobin A1c Level"
               label="Hemoglobin A1c Level"
-              type="number"
+              type="text"
               name="hbA1cLevel"
               :error="errors.hbA1cLevel"
               :required="true"
@@ -183,7 +183,7 @@
               :modelValue="bloodGlucoseLevel"
               placeholder="Please enter blood glucose level"
               label="Blood Glucose Level"
-              type="number"
+              type="text"
               name="bloodGlucoseLevel"
               :error="errors.bloodGlucoseLevel"
               :required="true"
@@ -223,6 +223,9 @@ export default {
     const swal = inject("$swal");
     const initialValue = ref({});
     const loading = ref(false);
+    const url = ref(
+      "https://diabetic-risk-assessment.onrender.com/api/diabetic-checker"
+    );
 
     const currentStep = ref(0);
     const maxStep = 3;
@@ -299,6 +302,7 @@ export default {
         hbA1cLevel,
         smokingHistory,
         bloodGlucoseLevel,
+        hypertension,
         age,
         bmi,
         diabetes,
@@ -306,19 +310,17 @@ export default {
       } = values;
 
       axios
-        .post(
-          "https://diabetic-risk-assessment.onrender.com/api/diabetic-checker",
-          {
-            ...rest,
-            age: +age,
-            bmi: +bmi,
-            heart_disease: +heartDisease,
-            HbA1c_level: +hbA1cLevel,
-            smoking_history: smokingHistory,
-            blood_glucose_level: +bloodGlucoseLevel,
-            diabetes: +diabetes,
-          }
-        )
+        .post(url.value, {
+          ...rest,
+          age: +age,
+          bmi: +bmi,
+          hypertension: +hypertension,
+          heart_disease: +heartDisease,
+          HbA1c_level: +hbA1cLevel,
+          smoking_history: smokingHistory,
+          blood_glucose_level: +bloodGlucoseLevel,
+          diabetes: +diabetes,
+        })
         .then((response) => {
           if (response.status === 200) {
             console.log(response);

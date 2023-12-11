@@ -29,7 +29,7 @@ def predict_health_status(gender, age, hypertension, heart_disease, smoking_hist
     Returns:
     int: The predicted health status (specific encoding of the output needs to be defined).
     """
-    model_path = '../models/xgboostmodel.pkl'
+    model_path = './models/xgboostmodel.pkl'
     model = load_model(model_path)
 
     input_features = [age, hypertension, heart_disease, bmi, HbA1c_level, blood_glucose_level, gender, smoking_history]
@@ -38,5 +38,6 @@ def predict_health_status(gender, age, hypertension, heart_disease, smoking_hist
 
 # # Example usage
 # prediction = predict_health_status(0, 50, 1, 1, 1, 999.5, 9.7, 200)
+# print("Prediction:", prediction)
 # prediction = predict_health_status(0, 54, 0, 0, 0, 27.32, 6.6, 80)
 # print("Prediction:", prediction)

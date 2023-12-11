@@ -73,7 +73,6 @@ def validate_and_print():
         processed_data = process_input_data(data)
         
         prediction = predict_health_status(processed_data['gender'], processed_data['age'], processed_data['hypertension'], processed_data['heart_disease'], processed_data['smoking_history'], processed_data['bmi'], processed_data['HbA1c_level'], processed_data['blood_glucose_level'])
-        
         if prediction:
             message = "You are at risk of having diabetes."
         else:
