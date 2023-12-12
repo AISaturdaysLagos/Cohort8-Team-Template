@@ -116,10 +116,10 @@ form = st.form(key='sentiment-form')
 user_input = form.text_area("Enter a restaurant's name")
 submit = form.form_submit_button('Submit')
 
-condition = result['restaurant_name'].str.contains(user_input, regex=True).
+condition = result['restaurant_name'].str.contains(user_input, regex=True).sum()
 
 if submit:
-  if condition == True:
+  if condition >= 1:
     label = result.loc[condition][0]
     whole_row = result[result['restaurant_name'] == label]
     score = whole_row['opinion'].values[0]
