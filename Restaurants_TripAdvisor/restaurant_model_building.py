@@ -116,7 +116,7 @@ form = st.form(key='sentiment-form')
 user_input = form.text_area("Enter a restaurant's name")
 submit = form.form_submit_button('Submit')
 
-condition = result['restaurant_name'].str.contains(user_input, regex=True)
+condition = result['restaurant_name'].str.contains(user_input, regex=True).
 
 if submit:
   if condition == True:
