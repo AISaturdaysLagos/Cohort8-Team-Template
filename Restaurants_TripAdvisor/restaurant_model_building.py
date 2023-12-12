@@ -121,7 +121,7 @@ condition = result['restaurant_name'].str.contains(user_input, regex=True).sum()
 if submit:
   if condition >= 1:
     label = user_input
-    whole_row = result[result['restaurant_name'] == label][0]
+    whole_row = result[result['restaurant_name'].str.contains(label, regex=True)][0]
     score = whole_row['opinion'].values[0]
     if score == 'Positive':
       st.success(f'Many customers find {label} a good place to spend their money!')
