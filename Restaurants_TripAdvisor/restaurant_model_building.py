@@ -134,4 +134,4 @@ with spinner:
     else:
         st.error(f'{user_input} is not in our database, we apologize about that.')
 if spinner:
-  spinner.empty()
+  st.empty()
