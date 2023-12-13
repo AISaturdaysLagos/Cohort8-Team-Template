@@ -117,15 +117,21 @@ submit = form.form_submit_button('Submit')
 
 matched_restaurant_names = [x for x in result['restaurant_name'].values if user_input.lower() in x.lower()]
 condition = len(matched_restaurant_names) > 0
+is_loading = True
 
-if submit:
-  if condition == True:
-    for restaurant_name in matched_restaurant_names:
-      whole_row = result[result['restaurant_name'] == restaurant_name]
-      score = whole_row['opinion'].values[0]
-      if score == 'Positive':
-        st.success(f'Many customers find {restaurant_name} a good place to spend their money!')
-      elif score == 'Negative' or score == 'Neutral':
-        st.success(f'The average customer finds {restaurant_name} not so great for eating out. Maybe try somewhere else?')
-  else:
-      st.error(f'{user_input} is not in our database, we apologize about that.')
+spinner = st.spinner(text="Searching for result")
+
+with spinner:
+  if submit:
+    if condition == True:
+      for restaurant_name in matched_restaurant_names:
+        whole_row = result[result['restaurant_name'] == restaurant_name]
+        score = whole_row['opinion'].values[0]
+        if score == 'Positive':
+          st.success(f'Many customers find {restaurant_name} a good place to spend their money!')
+        elif score == 'Negative' or score == 'Neutral':
+          st.success(f'The average customer finds {restaurant_name} not so great for eating out. Maybe try somewhere else?')
+    else:
+        st.error(f'{user_input} is not in our database, we apologize about that.')
+if spinner:
+  spinner.empty()
